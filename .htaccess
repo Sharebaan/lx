@@ -1,0 +1,91 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        #Options -Indexes
+        Options +FollowSymLinks 
+    </IfModule>
+
+ 
+    RewriteEngine On
+
+    #RewriteCond %{QUERY_STRING} ^page=(.+)&sortBy=(.+)&sortOrder=(.+)$ [NC]
+    #RewriteRule ^/oferte/sejururi$ http://www.helloholidays.ro/excursii-de-1-zi.aspx/? [R=301,L]
+
+    Redirect 301 /oferte-speciale.aspx /oferte/sejururi?page=1&offerTypes=2&sortBy=price&sortOrder=ASC
+
+    Redirect 301 /excursii-de-1-zi.aspx /oferte/circuite?page=1&locationFiltering=child&locationId=161&sortBy=price&sortOrder=ASC&categoryId
+
+    Redirect 301 /oferte/sejur/sejururi-autocar.aspx /oferte/sejururi?page=1&transportType=2&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /oferte/oferte-speciale/oferte-speciale-autocar.aspx /oferte/sejururi?page=1&offerTypes=2&transportType=2&sortBy=price&sortOrder=ASC    
+
+	Redirect 301 /circuite/circuite-europa.aspx /oferte/circuite
+
+	Redirect 301 /grecia/insula-thassos/skala-potamia/studio-nefeli.aspx /oferte/Sejururi/Grecia/STUDIO-NEFELI_03_31_HH_sid0
+
+	Redirect 301 /oferte-transport.aspx /
+	
+	Redirect 301 /grecia/insula-zakynthos/tsilivi/studio-odysseas.aspx /oferte/Sejururi/Grecia/STUDIO-ODYSSEAS_03_25_HH_sid0
+	
+	Redirect 301 /oferte/sejur/ /sejururi?page=1&offerTypes=2&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /excursii-bulgaria/excursie-balcik-cap-kaliakra.aspx /oferte/circuite?page=1&locationFiltering=child&locationId=133&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /contact.aspx /page/contact
+
+	Redirect 301 /grecia/insula-thassos/ /oferte/sejururi?page=1&locationFiltering=child&locationId=9331&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /excursii-bulgaria/excursie-veliko-tarnovo-bulgaria.aspx /oferte/Circuite/Bulgaria/VELIKO-TARNOVO-%E2%80%93-CAPITALA-%C8%9AARILOR_11_1293_LOCAL_sid0
+
+	Redirect 301 /comanda-acum.aspx /
+
+	Redirect 301 /oferta-marti-3-ceasuri-bune1.aspx /
+
+	Redirect 301 /oferte/circuit/circuite-autocar.aspx /oferte/circuite?page=1&offerTypes=2&transportType=2&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /excursii-bulgaria.aspx /oferte/circuite?page=1&locationFiltering=child&locationId=133&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /oferte-speciale.aspx /oferte/sejururi?page=1&offerTypes=2&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /circuite-hello-holidays.aspx /oferte/circuite
+
+	Redirect 301 /grecia/insula-lefkada/ /oferte/sejururi?page=1&locationFiltering=child&locationId=9327&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /romania/oferte-litoralul-romanesc.aspx /
+
+	Redirect 301 /grecia/insula-thassos/limenas/studio-roula.aspx /oferte/Sejururi/Grecia/STUDIO-ROULA_03_1127_HH_sid0
+
+	Redirect 301 /grecia/halkidiki/ /oferte/sejururi?page=1&locationFiltering=child&locationId=9325&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /grecia/insula-thassos/skala-potamia/studio-white-coral.aspx /oferte/Sejururi/Grecia/STUDIO-WHITE-CORAL_03_1125_HH_sid0
+
+	Redirect 301 /romania/romania-turism-intern.aspx /oferte/circuite?page=1&locationFiltering=child&locationId=161&sortBy=price&sortOrder=ASC&categoryId
+
+	Redirect 301 /grecia/insula-evia/pefki/studio-dinos.aspx /oferte/Sejururi/Grecia/STUDIO-DINOS_03_1131_HH_sid0
+
+	Redirect 301 /circuite-hello-holidays/circuite-autocar-hello-holidays.aspx /oferte/circuite?page=1&transportType=2&sortBy=price&sortOrder=ASC
+
+	Redirect 301 /grecia/insula-zakynthos/tsilivi/hotel-daisy.aspx /oferte/Sejururi/Grecia/HOTEL-DAISY_03_22_HH_sid0
+
+	Redirect 301 /oferta-speciala-septembrie.aspx /
+
+	Redirect 301 /grecia/insula-zakynthos/ /oferte/sejururi?page=1&locationFiltering=child&locationId=5430&sortBy=price&sortOrder=ASC
+
+	
+
+    # Redirect Trailing Slashes...
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+	RewriteRule ^(.*)$ public/$1 [L]
+
+    # Handle Front Controller...
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+   
+
+    
+    
+</IfModule>
+    

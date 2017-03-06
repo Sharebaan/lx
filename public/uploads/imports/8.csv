@@ -1,0 +1,713 @@
+ID,PARENT,TYPE PARENT,TYPE,NAME,DESCRIPTION,,
+1,1,oras,oras,Kusadasi,,1,activ
+2,1,oras,oras,Bodrum,,1,activ
+3,1,oras,oras,Marmaris,,1,activ
+4,1,oras,oras,Antalya,,1,activ
+5,1,oras,oras,Belek,,1,activ
+6,1,oras,oras,Side,,1,activ
+7,1,oras,oras,Alanya,,1,activ
+8,1,oras,oras,Kemer,,1,activ
+9,1,oras,oras,Lara Kundu,,1,activ
+10,1,oras,oras,Istanbul,,1,activ
+11,1,oras,oras,Canakkale,,1,inactiv
+12,1,oras,oras,Edirne,,1,inactiv
+13,1,oras,oras,Pamukkale,,1,inactiv
+14,1,oras,oras,Cappadocia,,1,inactiv
+15,1,oras,oras,Cesme,,1,activ
+16,1,oras,oras,Finike,,1,activ
+17,1,oras,oras,Fethiye,,1,activ
+18,1,oras,oras,Dalaman,,1,inactiv
+19,2,oras,oras,Hammamet,,1,activ
+20,2,oras,oras,Monastir,,1,activ
+21,2,oras,oras,Sousse,,1,activ
+22,3,oras,oras,Cairo,,1,inactiv
+23,3,oras,oras,Hurgada,,1,activ
+24,3,oras,oras,Sharm El Sheikh,,1,activ
+25,1,regiune,zona,Antalya,,1,inactiv
+26,13,oras,oras,Amsterdam,,1,inactiv
+27,14,oras,oras,Paris,,1,activ
+28,15,oras,oras,Casablanca,,1,inactiv
+29,17,oras,oras,Munchen,,1,inactiv
+30,16,oras,oras,Roma,,1,activ
+32,22,oras,oras,Viena,,1,activ
+33,23,oras,oras,Chisinau,,1,activ
+34,24,oras,oras,Barcelona,,1,activ
+35,24,oras,oras,Madrid,,1,inactiv
+36,25,oras,oras,Moscova,,1,activ
+37,26,oras,oras,New York,,1,activ
+38,27,oras,oras,Praga,,1,activ
+39,28,oras,oras,Londra,,1,activ
+40,29,oras,oras,Copenhaga,,1,activ
+41,30,oras,oras,Oslo,,1,activ
+42,16,oras,oras,Venetia,,1,inactiv
+43,19,oras,oras,Timisoara,,1,inactiv
+44,19,oras,oras,Cluj,,1,inactiv
+45,31,oras,oras,Beijing,,1,activ
+46,32,oras,oras,Tokyo,,1,activ
+47,38,oras,oras,Tripoli,,1,activ
+48,33,oras,oras,Varsovia,,1,activ
+49,34,oras,oras,Tel Aviv,,1,activ
+50,35,oras,oras,Helsinki,,1,inactiv
+51,36,oras,oras,Brussels,,1,activ
+52,37,oras,oras,Stockholm,,1,activ
+53,1,oras,oras,Ankara,,1,inactiv
+54,1,oras,oras,Izmir,,1,inactiv
+55,20,oras,oras,Duni,,1,activ
+56,16,oras,oras,Ascoli Satriano,,1,activ
+57,20,oras,oras,Albena,,1,activ
+58,20,oras,oras,Golden Sands,,1,activ
+59,20,oras,oras,Natural Park Golden Sands,,1,inactiv
+60,20,oras,oras,Nessebar,,1,activ
+61,20,oras,oras,Obzor,,1,activ
+62,20,oras,oras,Pomorie,,1,activ
+63,20,oras,oras,Elenite,,1,activ
+64,20,oras,oras,Sunny Day,,1,activ
+65,20,oras,oras,Sunny Beach,,1,activ
+66,20,oras,oras,St. Constantin,,1,activ
+67,20,oras,oras,Balcik,,1,activ
+68,15,oras,oras,Rabat,,1,activ
+69,19,oras,oras,Mamaia,,1,activ
+70,19,oras,oras,Cap Aurora,,1,activ
+71,19,oras,oras,Costinesti,,1,activ
+72,19,oras,oras,Eforie Nord,,1,activ
+73,19,oras,oras,Eforie Sud,,1,activ
+74,19,oras,oras,Jupiter,,1,activ
+75,19,oras,oras,Mangalia,,1,activ
+76,19,oras,oras,Neptun,,1,activ
+77,19,oras,oras,Olimp,,1,activ
+78,19,oras,oras,Saturn,,1,activ
+79,19,oras,oras,Venus,,1,activ
+81,21,oras,oras,Halkidiki,,1,activ
+82,20,oras,oras,Bansko,"Statiunea Bansko este situata in partea de sud-vest a Bulgariei, la 160 km de Sofia, la poalele muntilor Pirin, fiind inclusa in patrimoniul UNESCO. Bansko combina frumusetea naturii si atmosfera romantica a vechiului oras, renumit pentru monumentele culturale si colectia de icoane din scoala Zograf. Zona este faimoasa si pentru bucataria sa, avand numeroase taverne (peste 200) si pentru folclorul autentic. <br />
+Conditiile de ski in Bansko sunt excelente. Orasul se afla la altitudinea de 925 metri iar zonele de ski se afla la altitudinea de 2000-2600 metri. Lungimea totala a pistelor de ski este de 70 km. Exista 55 de tunuri de zapada artificiala si 650 metri de pista luminata ce poate fi folosita si noaptea.",1,activ
+83,20,oras,oras,Borovets,"Statiunea Borovets este situata la altitudinea de 1300 metri in Muntii Rila, la 73 km de Sofia. Statiunea ofera conditii perfecte pentru sporturile de iarna. A gazduit de doua ori cupa mondiala la ski alpin. Sezonul de ski dureaza din noiembrie pana in mai. <br />
+Exista piste de ski pentru fiecare sportiv, acestea avand dificultati variate: pentru incepatori, intermediari, avansati si experti; pistele au o lungime totala de 40 km. Statiunea are si piste de ski echipate cu tunuri de zapada si instalatie nocturna. Exista variante multiple pentru ski-pass-uri valabile in intreaga retea de transport pe cablu.",1,activ
+84,16,oras,insula,Insula Ischia,,1,activ
+85,16,oras,regiune,Catania,,1,activ
+86,17,oras,oras,Berlin,,1,activ
+87,20,oras,oras,Razlog,,1,inactiv
+88,20,oras,oras,Pamporovo,,1,activ
+89,20,oras,oras,Chepelare,,1,inactiv
+90,22,oras,oras,Zell am See,,1,activ
+91,22,oras,oras,Niedernsill,,1,activ
+92,22,oras,oras,Kaprun,,1,activ
+93,22,oras,oras,Bruck an der Glocknerstrasse,,1,activ
+94,22,oras,oras,Fusch,,1,activ
+95,22,oras,oras,Bad Gastein,,1,activ
+96,22,oras,oras,Bad Hofgastein,,1,activ
+97,22,oras,oras,Saalbach,,1,activ
+98,22,oras,oras,Landeck,,1,activ
+99,40,oras,insula,Port Louis,,1,activ
+100,41,oras,oras,Dubai,,1,activ
+101,42,oras,oras,Punta Cana,,1,activ
+102,20,oras,oras,Veliko Tarnovo,,1,inactiv
+103,22,oras,oras,Fieberbrunn,"Cuibarita in mijlocul Alpilor Kitzbuhel, statiunea Fieberbrunn situata in valea Pillerseetal de la circa 800 - 2020 m altitudine ofera numeroase baruri si cafenele, discoteci, Apres-ski-Cabane, fiind celebra, de asemenea pentru iubitorii de snowboard. <br />
+Regiunea de ski ""Schneewinkl"" ofera circa 40 km de partii bine preparate si circa 11 de instalatii de transport pe cablu. Telecabina in fata hotelului la 10 m, iar cel mai apropiat skibus este la 50 m. Este posibil si ski-in, ski-out.",1,activ
+104,21,oras,oras,Skiathos,,1,activ
+105,43,oras,oras,Lisabona,"Lisabona sau Lisboa este capitala Portugaliei si o metropola internationala. <br />
+
+Este principalul centru portughez inca din anul 1260, cand a devenit capitala a tarii. Aspectul de oras medieval al Lisabonei te invita parca sa faci fotografii la fiecare ""miradouro"" (locurile inalte, amenajate special pentru panorame superbe asupra intregului oras). <br /><br />
+
+
+Printre nenumaratele atractii, enumeram: Belem (un cartier cu multe monumente: Turnul Belem, Manastirea Jeronimos, etc), Alfama (cel mai vechi cartier al orasului- de fapt era cam tot orasul pe vremea cand maurii au intrat in peninsula- sec. al VIII-lea), Baixa (considerat centrul metropolei), Bairro Alto (cartierul cu cea mai animata viata de noapte), Parcul Natiunilor, etc. O capitala pe tarmul oceanului, intr-un insorit peisaj sudic; amintiri vii din Epoca Marilor Descoperiri Geografice; arta care se intinde din palate pana in strada, din manastiri pana in metrou - cred ca e destul ca sa va stimuleze dorinta de a vizita capitala Portugaliei!
+<br />
+<br />
+<br />
+<strong>Litoral zona Lisabona</strong><br />
+
+<br />
+Cascais, Estoril, Ericeira si Sesimbra sunt 4 statiuni situate pe coasta Portugaliei. Aproape de Lisabona, aceste statiuni invecinate sunt bine conectate de oras, convenabile pentru explorare spre nord, pana la Sintra, si de asemenea o incantare pentru surferii si jucatorii de golf. Aceste statiuni ofera conditii de cazare la hoteluri de foarte buna calitate, iar facilitatile acestora sunt pentru toate categoriile de varsta.<br /><br />
+
+<strong>CASCAIS:</strong> Fosta statiune regala, Cascais este vestita pentru stralucirea data de curtea regala. Fiind dezvoltata in jurul vechiului port, se pot admira multe biserici si capele vechi. Remarcabil este Palatul Muzeu Castro Guimaraes cu o impresionanta colectie de carti, Muzeul Marii, iar langa orasel se afla Boca do Inferno, o intrare stancoasa ingusta cu arcade si caverne.<br />
+<strong>ESTORIL: </strong>La inceput o mica statiune, Estoril a devenit pe parcurs o destinatie preferata de regii europeni exilati, printre care si regele Carol al Romaniei, fiind denumita ""Riviera Portugheza"". Are un vestit Casino, gradini frumoase, terenuri de golf si o atractiva plaja de nisip (Tamariz). In timpul verii se tin concerte si recitaluri la Catedrala din Estoril si alte locatii impresionante. <br />
+<strong>ERICEIRA:</strong> Ericeira este o statiune renumita pentru plajele sale frumoase, acolo unde stancile inalte ale coastei pietroase intalnesc Oceanul Atlantic. Surfing-ul reprezinta principala atractie a turistilor veniti din lumea intreaga. Pe langa asta, turistii pot admira minunatele peisaje in timpl unei plimbari cu bicicleta, la calarie sau pur si simplu intr-o drumetie. Ericeira e foarte animata si noaptea, atragand deopotriva portughezi si turisti de pretutindeni, in timpul verii si in week-end-uri. O mare varietate de cluburi de noapte promit o noapte incitanta. Aici gasim al doilea club ca marime din Portugalia (Ourico), inaugurat in august 1960, cu vedere spre stanci si spre Oceanul Atlantic.<br />
+<strong>SESIMBRA: </strong>Sesimbra este un orasel cu traditii pescaresti, situat la 40 km de Lisabona. De pe o stanca vegheaza asupra asezarii un castel medieval construit in secolul 13 de Dom Sancho II. Zidurile acestuia gazduiesc Biserica Sfanta Maria, un exemplu de arhitectura religioasa. La aproximativ 10 km de oras se afla Cabo Espichel cu Santuario da Nossa Senhora do Cabo, cu vestitele ""azulejos"" (placi traditionale portugheze pictate in alb si albastru, reprezentand legende sau scene religioase).",1,activ
+106,19,oras,oras,Azuga,,1,activ
+107,19,oras,oras,Bran,,1,activ
+108,19,oras,oras,Busteni,,1,activ
+109,19,oras,oras,Poiana Brasov,,1,activ
+110,19,oras,oras,Predeal,,1,activ
+111,19,oras,oras,Sinaia,,1,activ
+112,19,oras,oras,Staja,,1,activ
+113,21,oras,oras,Corfu,"Insula care a vrajit poeti si regi. Portul care a legat Rasaritul de apus. Locul unde a poposit Ulise, maretul erou al lui Homer, taramul ales de Poseidon pentru a-si trai dragostea cu Amfitriti, ramane acelasi incantator loc care pana in zilele noastre, gazduieste si incanta vizitatorii contemporani: plin de frumusete, romantic, natural, incarcat de istorie, dar mai presus de toate imprevizibil, Corfu continua si astazi sa-si vrajeasca vizitatorul. <br />
+
+Corfu este insula padurilor si muntilor, cu sate cu case albe, ascunse in vai, stranduri cu nisip si cu locuitorii vestiti pentru ospitalitatea lor. Insula dispune de toate trasaturile necesare pentru o vacanta perfecta, imbinand stilul grecesc cu cel italian. <br />
+<br />
+
+
+Insula Corfu este renumita pentru plantatiile sale de maslini, vita de vie, cereale si produse de apicultura. <br />
+
+Gastronomia insulei a fost influentata de civilizatiile care au ocupat candva acest teritoriu: sicilieni, venetieni, francezi, englezi. Turistii vor descoperi specialitatile corfiote in multiplele taverne si restaurante care ii asteapta: pastitsado - una din cele mai cautate specialitati de pe insula derivata din bucataria venetiana. Are la baza carne de vita gatita in sos de tomate si servita cu spaghete; sofrito - de origine franco-venetiana si contine carne de vita inabusita in sos alb. Se serveste deobicei duminica; koum kouat - este un lichior foarte tare fabricat din fructul Koumquat, fruct care exista doar in Corfu. <br />
+<br />
+
+
+<strong>Statiuni </strong><br />
+<br />
+
+
+<strong>Statiunea Agios Gordis</strong> <br />
+este situata in Sud-Vestul insulei Corfu la 15 km distanta de capitala Kerkyra. Aceasta se desfasoara intr-un mic golf la Marea Ionica intinzandu-se de-a lungul unei plaje lungi cu nisip fin si auriu, poate cea mai buna plaja din insula, plaja care se preteaza tuturor tipurilor de sporturi nautice. O mare superba si un peisaj spectaculos va vor invita la plaja, la baie si la sporturi nautice. <br />
+
+Zona este indeosebi montana, bogata in vegetatie mediteraneana, ceea ce confera aerului o puritate aparte. Viata de noapte si shopping-ul sunt bine reprezentate in Agios Gordis, astfel tavernele, restaurantele si magazinele de suveniruri va asteapta sa le vizitati. <br /><br />
+
+
+<strong>Paleokastritsa </strong><br />
+Pe o insula renumita pentru peisajul extraordinar, Paleokastritsa sta neconcurata ca cea mai impresionanta locatie din Corfu. Sase golfuri fermecatoare inconjoara un promontoriu impadurit la Paleokastritsa. Statiunea ofera trei plaje, iar apele sale limpezi sunt ideale pentru practicarea snorkelingului si scufundarilor, precum si a multor altor sporturi acvatice. Poti inchiria o barca si explora grotele si plajele izolate din apropiere. Dealurile care se ridica deasupra statiunii ofera o panorama incredibila asupra zonei, iar poteci de munte duc la fortareata Angelokastro din sec. XIII si manastirea Paleokastritsa. Inainte de dezvoltarea intensa a turismului in aceasta zona, Paleokastritsa era locul preferat al tuturor vedetelor de la Hollywood si vizitata de politicieni si oameni de afaceri renumiti, din intreaga lume. Plajele din aceasta statiune sunt diversificate, cu nisip, dar si cu pietricele, iar imbaiatul este in siguranta pentru copii. Tot aici se pot practica majoritatea sporturilor acvatice preferate de turisti. <br /><br />
+
+
+<strong>Agios Ioannis </strong><br />
+Relaxare, privelisti minunate, sporturi acvatice. <br />
+
+Statiunea se afla pe coasta de est, oferind privelisti minunate asupra tarmului grecesc. In coltul acesta din Corfu intalnesti la tot pasul taverne, magazine cu suveniruri. Plaja este intinsa, cu pietricele, iar zona este renumita pentru practicarea sporturilor acvatice. Statiunea este recomandata celor dornici de relaxare si liniste. <br />
+<br />
+
+<strong>Dassia</strong><br />
+
+Statiunea se intinde pe coasta de est a insulei, la 14 km nord de Corfu Town, in fata marii, avand pe fundal dealuri acoperite cu livezi de maslini si pini. Orasul s-a transformat treptat intr-una dintre cele mai cautate statiuni din Corfu. 
+Este o locatie animata si activa de dimineata devreme pana noaptea tarziu.<br />
+<br />
+<strong>Util si practic</strong><br />
+<br />
+Potrivit mitologiei grecesti, numele de CORFU  (KERKYRA - in limba greaca) provine de la numele nimfei Korkira, fiica lui Assopos. Zeul marilor, Poseidon, s-a indragostit de nimfa si a rapit-o aducand-o pe insula. Homer a fost cel dintai care a cantat frumsetile insulei, amintind in opera sa Odiseea, ca pe coastele insulei, Ulise a fost aruncat  de furtuna si gasit de Nausica, fiica regelui Alcinous. <br />
+Regele feacilor i-a pus la dispozitie o corabie cu care a ajuns in patria lui Itaca. <br />
+
+Centrul istoric al orasului Corfu Town este ridicat intre doua fortarete care marturisesc istoria europeana ce dateaza de mai bine de o mie de ani, acesta fiind pricipalul motiv pentru care acesta a fost integrat in Vestigiile Istoriei lumii apartinand UNESCO.<br />
+
+<strong>De vizitat:</strong> Muzeul  Arheologic, Muzeul Artei Asiatice, Palatul Achillion din Gastouri, Pelekas.<br />
+<br />
+<strong>Clima:</strong><br />
+Insula se bucura de o clima mediteraneana cu ierni blande si veri revigorante.",1,activ
+114,21,oras,oras,Creta,"<strong>Insula Creta - PLAJE CELEBRE</strong><br />
+<br />
+
+Creta are un peisaj de coasta spectaculos, care variaza de la stanci abrupte care se pravalesc in mare, la fasii intinse de nisip fin. <br />
+<strong>
+Plaja Matala</strong>, 70 km vest de Heraklion se lauda cu nisip auriu si un trecut agitat. In peretii abrupti de gresie ce se apleaca asupra plajei au fost sapate morminte in perioada romana. Mai tarziu acestea au fost transformate in grote locuibile de primii crestini si de mai recentii hippies. <br />
+
+Exotica <strong>plaja Vai</strong> din Siteia se afla in topul primelor 10 plaje din Grecia si este un paradis tropical incadrat de o padure veche de palmieri, protejata de autoritatile locale. <br />
+
+<strong>Paleohora</strong>, pe coasta de sud, este cea mai renumita plaja din Creta pentru activitatile pe care le ofera. O plaja larga de nisip, nenumarate sporturi acvatice, o scoala de windsurfing si posibilitatea de a observa delfini innotand in mare. <br />
+
+&#522; n <strong>Elounda </strong>si <strong>Aghios Nikolaos</strong> se gasesc plaje premiate cu steag albastru pentru puritatea apei, calitatea nisipului si facilitatile excelente. <br />
+
+<strong>Plajele din Herssonisos</strong> si <strong>Malia </strong>sunt populare printre cei care doresc sa asculte ultimele sound-uri in timp ce se bucura de soare si nisip. Aici, de-a lungul tarmului sunt insirate baruri, magazine, taverne. <br />
+<br /><br />
+
+<strong>Statiuni Insula Creta</strong><br /><br />
+
+
+
+<strong>HERSONISSOS</strong><br />
+
+Locatie: pe coasta de nord a Cretei, la 25 km vest de Heraklion, capitala insulei Hersonissos a fost odata un mic sat pescaresc; astazi este cea mai populara destinatie de vacanta din Creta. Ai trei optiuni de plaja si o varietate mare de sporturi de apa. Tarmul lung al statiunii este intesat cu taverne, magazine de suveniruri, cafenele, baruri si discoteci. Hersonissos are de oferit cate ceva pentru orice dispozitie si buget, de la familii la tineri petrecareti. <br /><br />
+
+
+
+<strong>AGIOS NIKOLAOS/ KALO CHORIO</strong><br />
+
+Locatie: pe coasta de nord-est a Cretei, 30 km est de Heraklion. <br />
+
+Una dintre cele mai placute statiuni turistice din Creta, Aghios Nikolaos se bucura de o pozitie incantatoare in golful Mirabello. Orasul are in centru un mic port animat de yachturi si barci, inconjurat de casute albe, strazi inguste, restaurante si cafenele fermecatoare. Cei interesati de shopping nu trebuie sa piarda zecile de magazine mici si luxoase cu bijuterii, ceramica, imbracaminte din piele si suveniruri. Agios Nikolaos este renumit pentru viata de noapte si nu duce lipsa de baruri si cluburi. Kalo Chorio este o statiune mica, desfasurata pe un deal deasupra marii, cu vedere panoramica asupra fabulosului Golf Mirabello si o plaja premiata cu steag albastru pentru calitatea sa. Se afla in imediata vecinatate a statiunii Aghios Nikolaos, beneficiind astfel de toate atractiile orasului. Kalo Chorio atrage in aceeasi masura cupluri romantice, familii si petrecareti care cauta distractia in Aghios Nikolaos. <br />
+<br />
+
+
+<strong>ELOUNDA</strong><br />
+
+Locatie: pe coasta de nord-est a Cretei, 12 km de Agios Nikolaos, 73 km est de Heraklion. <br />
+
+&#522; n mitologia greaca locul in care s-a nascut Zeus se afla in imediata apropiere a Eloundei. Zeii continua sa zambeasca deasupra Golfului Mirabello, pe tarmul caruia este localizata statiunea, considerata una dintre cele mai luxoase destinatii de pe Mediterana. Cand te gandesti la o vacanta in Golful Mirabello, numele spune totul. Mirabello inseamna ""priveliste frumoasa"". Ridicandu-se din mare, dealurile stancoase ofera de sus o panorama incredibila. Statiunea atrage in fiecare vara vizitatori din toate colturile lumii si un numar considerabil de VIP-uri - politicieni, printi si celebritati in cautare de intimitate, lux si relaxare. Elounda se lauda cu hoteluri luxoase, restaurante sofisticate, cocktail-baruri, dar si cu cafenele si taverne prietenoase. <br /><br />
+
+
+
+<strong>AGIA PELAGIA</strong><br />
+
+Locatie: pe coasta de nord a Cretei, 20 km vest de Heraklion. <br />
+
+Agia Pelagia este un exemplu perfect de frumusete naturala cretana si este aproape imposibil sa nu fii fermecat de acest loc. Statiunea are unele dintre cele mai cautate plaje ale Cretei. Este protejata de vanturile puternice ale insulei, marea fiind intotdeauna calma si extrem de limpede, ideala pentru familiile cu copii. Nu vei gasi in Agia Pelagia cluburi mari sau o viata de noapte intensa, ci o selectie de baruri, cafenele si taverne traditionale amplasate de-a lungul tarmurilor. Agia Pelagia este destinatia perfecta pentru a te bucura de peisaje incredibile, odihna si relaxare totala.<br />
+<br />
+<strong>Util si practic</strong><br />
+<br />
+Cea mai sudica dintre insulele Greciei, Creta se mandreste cu ape limpezi, plaje nisipoase si un soare darnic. Verile foarte lungi de aici garanteaza soare indiferent de perioada in care alegi sa iti petreci vacanta. Pe tarmul nordic abunda statiunile de vacanta si asezarile istorice. Capitala, Heraklion, este recunoscuta pentru Muzeul de Arheologie si ca punct de plecare pentru explorarea celui mai mare dintre palatele Cretei, Knossos.<br />
+<br />
+<strong>NU PIERDE IN CRETA:</strong><br />
+
+- Vechile orase Chania si Rethymnon, care si-au pastrat farmecul traditional. <br />
+
+- Knossos Palace, cel mai celebru dintre palatele minoice, construit in cca 1900 i.Hr.<br />
+
+- Grota Diktiana. Conform legendei, Rhea l-a nascut pe Zeus in aceasta grota.<br />
+
+- Exploreaza Cheile Samariei, cel mai lung defileu din Europa si care ofera cel mai spectaculos peisaj din Creta.<br />
+
+- Testeaza-ti abilitatile intr-unul dintre variatele sporturi pe apa ale insulei: scuba-diving, water-skiing, banana rides etc.<br />
+
+- Comanda peste sau fructe de mare proaspete, simplu preparate la o taverna de pe malul marii.<br />
+
+- Delecteaza-te cu loukoumades, desert intalnit numai in Creta. <br />
+
+- Gusta tsikoudhia, bautura alcoolica tare traditional cretana.<br />
+
+- Incearca viata de noapte din Hersonissos, Malia, Agios Nikolaos, Elounda.<br />
+<br />
+<strong>Clima</strong><br />
+Creta are cele mai lungi veri din Grecia, incepand mai devreme decat in alte locuri.",1,activ
+115,21,oras,oras,Kos,"<strong>Insula Kos</strong>, insula lui Hipocrate (parintele medicinei), a fost binecuvantata cu un climat cald, peisaje magnifice, plaje incantatoare si insorite, campii fertile, dar si cu localnici foarte ospitalieri si o multime de situri arheologice. <br /> Insula Kos face parte din grupul de Insule Dodecanese, fiind localizata chiar in inima acestui complex de insule, inconjurata de Marea Egee, intre insulele Kalymnos (in nord) si Nissyros (in sud). Se intinde pe o suprafata de 290 km patrati si are, 112 km de coasta si aprox 27.000 locuitori. <br /> Este a treia insula ca marime dupa Rodos si Karpatos si a doua insula dupa Rodos care atrage cei mai multi turisti (aprox 100.000), majoritatea fiind englezi, dar si germani, olandezi, rusi, polonezi. Farmecul specific al insulei, satele ei pitoresti si plajele insorite incanta vizitatorul. <br /> Peisajul natural este de o frumusete covarsitoare, siturile si monumentele antice, arhitectura specifica din Kos atrag un numar mare de vizitatori in fiecare vara, depasind de 2 sau 3 ori numarul locuitorilor. Aceasta fermecatoare insula a Greciei incanta privirea vizitatorilor cu forme de relief diverse - mare si munte - oferind o combinatie unica de vechi si modern, locasuri de cult in stil ortodox, obiceiuri si traditii, precum si deliciile bucatariei grecesti. <br /><br />
+
+
+<strong>Capitala insulei</strong><br />
+
+Orasul ii impresioneaza imediat pe turisti prin imensele strazi pavate cu asfalt, dar integrate perfect in verdeata, prin numeroasele alei strajuite de arbori, totul aratand existenta unui proiect urbanistic reusit. Cu multe atractii turistice arheologice ce se regasesc in apropierea orasului si cu strazile largi si drepte, Kos este ideal pentru a te plimba pe jos sau cu bicicleta, orasul fiind cunoscut chiar sub numele de ""Orasul bicicletelor"". Magazinele, barurile, restaurantele, cafenelele, centrele de informatii turistice va permit sa gasiti tot ceea ce va doriti. Portul orasului este unic, pitoresc cu foarte multe barci destinate excursiilor, yahturi si barci pentru pescuit. La o distanta mica de oras, atat in nord cat si in sud (zona Lambis) sau in est (zona Psalidi) sunt amenajate plaje cu toate facilitatile, inclusiv sporturi de apa. &#522; n zona Psalidi se gaseste singurul camping de pe insula. <br />
+<br />
+
+
+<strong>Plajele de pe insula Kos</strong><br />
+
+<strong>Lambi </strong>este situata langa orasul Kos, si se intinde pe o lungime de mai mult de 1 km. Plaja este foarte populara printre turisti, in special datorita apropierii de oras si accesul la facilitatile acestuia. <br />
+<strong>
+Plaja Psalidi</strong> este situata foarte aproape de orasul Kos, la 3,5 km, pe drumul ce duce la Agios Focas si Therme. <br />
+
+Este o plaja cu nisip si pietricele, amenajata cu umbrele si sezlonguri, cu taverne si cu facilitati pentru practicarea sporturilor acvatice. <br />
+
+<strong>Marmari </strong>este situata in partea de nord a insulei, la 15 km vest fata de orasul Kos. Este o plaja lunga cu nisip, foarte populara printre turisti datorita frumusetii sale. <br />
+
+<strong>Mastichari </strong>este situata in satul cu acelasii nume, la o distanta de 22 km de capitala. Este o plaja exotica, cu nisip alb si apa turcoaz. Exista si un port micut, de unde se organizeaza excursii catre insula Kalymnos. <br />
+
+<strong>Tigaki </strong>se afla langa centrul comercial din Kos, la o distanta de 10 km. Este o plaja foarte cosmopolita si foarte bine organizata. Este locul ideal pentru a practica ""wind surfing"" si se intinde pe o distanta de 10 km lungime. <br />
+<strong>Agios Fokas</strong> este una dintre plajele cele mai pitoresti din Kos, deoarece combina intr-un mod unic nisipul cu pietrele. Se afla la o distanta de 6 km, la sud de capitala. <br />
+
+<strong>Thermes </strong>este localizata la vest de capitala, la o distanta de 8 km. Este populara pentru izvoarele termale, ideale pentru curele in reumatism si artrita.<br />
+<br />
+<strong>Util si practic</strong><br />
+<br />
+<strong>Specialitati culinare</strong><br />
+
+Kos este insula care ofera placeri gastronomice unice. &#522;n Kos se respecta bucataria mediteraneana - greaca, adica peste, legume, ulei de masline si paste, in combinatie cu retete traditionale locale.<br />
+
+Bineinteles, nu poate lipsi desertul pe baza de miere si vinul.<br />
+
+- Xinomyzithra, o supa locala cu branza.<br />
+
+- Galomyzithra, un fel de branza preparata din lapte de vaca. <br />
+- Krasotyri, care este o branza unica, iute si care contine vin.<br />
+- Sarsoymades - un desert local traditional cu miere.<br />
+- Loukoumades si xerotigana sunt snacksuri dulci prajite.<br />
+<br />
+<strong>Shopping</strong><br /> pe langa magazinele de pielarie si blanuri, bijuterii si produse artizanale din ceramica, produse cosmetice pe baza de ulei de masline, veti gasi si magazine de imbracaminte si incaltaminte ale caselor de renume.<br />
+<br />
+<strong>Transportul local</strong><br />
+&#522;n Kos transportul cu autobuzul este foarte bine organizat. Poti vizita destinatiile turistice cu bilete foarte ieftine. &#522;n capitala insulei poti folosi autobuzele locale, iar pentru distante mai mari autobuzele KTEL. Rutele sunt foarte frecvente si statia centrala de autobuze se afla in centru, pe strada Cleopatra. Poti vizita regiuni ca Mastichari, Saint Stefanos, Tigaki, Kefalos, Pyli, Asklipieion si Saint Fokas.<br />
+<br />
+<strong>Clima</strong><br />
+Clima este mediteraneana, cu ierni blande si cu o temperatura medie de 31 grade Celsius in timpul verii.",1,activ
+116,21,oras,oras,Rhodos,"<strong>Insula Rhodos</strong> este cea mai mare dintre Insulele Dodecaneze in Marea Egee. Are 78 de km lungime, 38 de km latime si 57.148 locuitori. <br />
+
+Rhodos a devenit un centru regional important, multumita pozitiei sale, climatului si atractiilor naturale. Este cunoscuta ca Insula Soarelui. Pindar o mentioneaza intr-una din odele sale ca fiind nascuta din unirea zeului Helios cu nimfa Rhoda. <br />
+
+Insula este acoperita de un sol fertil, cu vegetatie bogata; cel mai inalt punct de pe insula este varful Atavyros (1.215 m) situat in partea de sud-vest a insulei. <br />
+
+Insula abunda in locuri incantatoare si interesante, care merita sa fie vizitate, cum ar fi Valea Fluturilor, satul Triada, langa anticul Ialyssos (Ialissos) pe varful Filerimos, unde in secolul 15 a fost ridicata manastirea cu acelasi nume, ruinele templelor lui Atena si Zeus, Kameiros (Kamiros) si ruinele orasului Dorian, Kalithea cu baile termale, Koskinou, Afandou, Faliraki si Rodini. <br />
+<br />
+
+
+<strong>Orasul Rhodos</strong><br />
+
+Capitala, denumita tot Rhodos, este situata in nordul insulei si este compusa practic din trei orase: modern, antic si medieval. Orasul modern are un caracter cosmopolit, cu majoritatea cladirilor ridicate in secolul al XX-lea. Orasul antic, fondat in anul 408 i. Chr. se mandreste cu ruinele templelor lui Zeus, Atena si Apollo, cu Stadionul, Gymnasiumul si Teatrul. Orasul medieval este inconjurat de zidurile ridicate de Cruciati. Este impartit in doua parti inegale: micul Collachio si marele Burgo sau Hora. <br />
+
+
+Important este si orasul Lindos. Contrastul dintre casele de un alb stralucitor, ridicate pe cele doua plaje terasate si orasul vechi, formeaza una din cele mai uimitoare imagini din Grecia. <br /><br />
+
+
+
+<strong>Plajele de pe insula Rhodos</strong><br />
+
+<strong>Faliraki</strong><br />
+
+Se afla la 13 km de Rodos. Este una dintre statiunile preferate de pe insula. Plaja de aici este foarte bine organizata, cu sezlonguri si umbrele pentru inchiriat, precum si facilitati pentru practicarea sporturilor marine. &#522; n jurul plajei sunt o multime de hoteluri, taverne si baruri. <br />
+
+<strong>Ixia </strong><br />
+
+Este o statiune turistica in plina dezvoltare, aflata la 2 km de orasul Rhodos, cu multe posibilitati de shopping, cu taverne originale grecesti si cu o plaja lunga cu pietricele. Faleza este plina de cafenelele, barurile si discotecile care se conformeaza cu pretentiile tinerilor. <br />
+
+<strong>Ialissos</strong><br />
+
+Se afla la 10 km de Rhodos. De-a lungul falezei sunt foarte multe taverne, cafenele, magazine si diferite alte posibilitati de distractie. Plaja de aici este una dintre cele mai cosmopolite plaje din Rodos, cu nisip dar si cu pietricele. Este o locatie populara, ideala pentru windsurfing. <br />
+
+<strong>Kallithea</strong><br />
+
+Satul Kallithea si plaja cu acelasi nume sunt situate pe coasta de sud-est a insulei Rodos, la o distanta de 10 km de capitala. Plaja este foarte aglomerata, deoarece este renumita pentru izvoarele termale si saloanele Spa. Este un loc magic, cu multi copaci si poti gasi o mare varietate de hoteluri si taverne. <br />
+
+<strong>Elli</strong><br />
+
+Plaja Elli este plaja centrala in capitala din Rodos, langa cazino. Este foarte bine amenajata cu sezlonguri si umbrele pentru inchiriat, precum si cu o multime de taverne. <br /><br /><br />
+<strong>Util si practic</strong><br /><br />
+
+<strong>Specialitati culinare:</strong><br />
+
+Pitaroudia - crochete din naut<br />
+
+Kapamas - carne de capra la cuptor cu naut si fasole<br />
+
+Soupiorizo - risotto cu caracatita<br />
+
+Manatsouki - fasole sau naut gatite intr-un vas de pamant <br />
+
+Rifiki - spate de capra sau oaie umplut cu orez si gatit intr-un vas de pamant<br /><br />
+
+
+<strong>Dulciuri:</strong><br />
+
+Melekouni - foarte asemanatoare cu sarailiile<br />
+
+Talagoutes - clatite cu miere, nuci, scortisoara si susan. <br />
+<br />
+
+<strong>Shopping: </strong>
+Fie ca esti interesat de marci de renume sau buticuri, suveniruri sau accesorii, Rhodos este potrivit pentru toate gusturile, concurand cu orice metropola europeana. <br />
+
+In partea orasului nou se gssesc mai ales magazine de marca, iar pantofii sunt la jumatate de pret fata de restul Europei. <br />
+
+Partea medievala a orasului este dedicata magazinelor cu bijuterii din aur si argint. Manopera este de calitate, iar preturile foarte bune. <br /><br />
+
+
+<strong>Distractie</strong><br />
+
+Grecii sunt mari amatori de distractie nocturna, iar cluburile si barurile ofera atat muzica greceasca live - Bouzoukia - cat si muzica de club. Pentru seri romantice si cocktailuri deosebite mergi in Odyssey Cafe din Faliraki. <br />
+
+Cel mai fierbinte loc este Sting Bar, tot din Faliraki unde poti dansa si te poti distra pe cele mai noi ritmuri. 
+<br /><br />
+<strong>Clima:</strong><br />
+Insula se bucura de un climat de tip mediteranean, cu veri insorite si uscate si cu ierni blande si ploioase. In perioada estivala, temperaturile sunt intre 17grC si 29grC.",1,activ
+117,21,oras,oras,Santorini,"<strong>Insula Santorini</strong>, aflata in sudul Marii Egee la 120 de mile marine de Creta, atrage turistii mai ales datorita faimei potrivit careia in aceasta regiune s-a gasit legendara Atlantida. Aici se afla un sat-castel, Pyrgos, celebru pentru ca are mai multe biserici (75) decat case. De altfel, se spune ca Santorini este locul in care ""sunt mai multe biserici decat case, mai mult vin decat apa, mai multi magari decat barbati"". <br />
+
+Numele Santorini este unul recent, si vine de la biserica de pe insula, inchinata Sfintei Irene, numita Aghia Irini de greci si Santa Rini de marinarii straini. <br />
+
+Monument de arhitectura si geologie, insula este pentru multi emblema vizuala a Greciei. Un spatiu care s-a nascut prin disparitia unei civilizatii. <br />
+Stancile ""povestesc"" despre cea mai mare catastrofa naturala ce a scuturat Mediterana, dar care a creat doua plaje faimoase in lume, Plaja Rosie si Plaja Neagra, si un decor fabulos pentru asfintitul soarelui. <br />
+<br />
+Santorini este formata dintr-un grup de 5 insule mai mici ce au aparut in urma eruptiei devastatoare de acum 3600 de ani a vulcanului cu acelasi nume, eruptie care a avut ca efect scufundarea in mare a partii centrale a insulei si aparitia actualei Caldera - o laguna ce masoara aproximativ 12 km pe 7 si adanca de vreo 400 m. <br />
+O data ce ai pus piciorul pe pamant, privirea iti este atrasa de peretii de roci vulcanice de diverse nuante, parca pictate (de la alb-gri la rosu, maro, negru), perfect asortate cu albastrul pur al marii Egee. Casele de un alb orbitor, cu acoperisuri rotunjite, par chilii sapate in lava pietrificata. Intre acestea, stradutele mici si inguste duc spre magazine si taverne cu priveliste catre mare. Dar ca sa te convingi, trebuie sa le vezi. <br /> <br />
+<strong>Viata de noapte in Santorini</strong><br />
+In Fira si pe plajele Perissa si Kamari: ENIGMA Night Club; KOO NIGHT CLUB - Fira; DOM NIGHT CLUB - Kamari<br />
+<br />
+<strong>Sporturi marine</strong><br />
+Wave water Sports Club, situat pe plaja Perivolos, langa ""Chili"" Bar. <br />
+Jet Watersports: jet ski, water ski, wind surf, pe plaja Kamari. <br />
+<br />
+<strong>Cumparaturi in Santorini</strong><br />
+Bijuterii- THOMAS JEWELLERY; Linderi Gold Jewerly; suveniruri traditionale - Fira; bauturi: Canava Antonis Argiros - Exo Gonia. <br />
+<br />
+<strong>Vinurile locale</strong>
+Boutari (Megalochori); Antoniou (Megalochori)<br />
+Canava Roussos (Mesa Gonia); Sigalas (Ia); Koutsoyannopoulos (Messaria); Santo Wines (Pyrgos). <br />
+<br />
+<strong>IMEROVIGLI</strong><br />
+
+-Peisaje deosebite<br />
+Imerovigli este zona cea mai inalta din Santorini si astfel beneficiaza de peisaje spectaculoase. Fira se afla la 2 km departare, o scurta distanta parcursa cu autobuzul sau taxiul, unde poti gasi baruri, taverne, restaurante si discoteci. <br />
+
+<br />
+<strong>PERIVOLOS</strong><br />
+
+-Albastrul marii<br />
+-Plaje linistite<br />
+Plajele pitoresti din Perivolos sunt localizate in apropiere de Perissa, la aproximativ 3 km departare. Plaja este cunoscuta pentru albastrul stralucitor al marii si pentru ca este una dintre cele mai linistite zone de plaja din Santorini. In Perivolos se poate ajunge foarte usor din Perissa cu autobuzul. Turistii dornici de sport pot parcurge aceasta distantta pe jos si se pot bucura de peisaje foarte frumoase. <br />
+<br />
+<strong>KAMARI</strong><br />
+-Relaxare<br />
+-Plina de viata <br />
+Kamari este adapostit in spatele vulcanului. Mesa Vouno este localizat la 10 minute de aeroport, in partea de sud est a insulei. Un sat traditional care s-a transformat intr-una dintre cele mai renumite statiuni ale insulei. Aici puteti gasi baruri, restaurante, taverne grecesti, cluburi si magazine, toate menite sa faca din Kamari locul ideal pentru petrecerea vacantelor dumneavoastra. Statiunea ofera multiple posibilitati pentru practicarea sporturilor de apa. <br /><br />
+<strong>OIA</strong><br />
+-Relaxare<br />
+-Apusuri de soare spectaculoase<br />
+Statiunea Oia se desfasoara in extremitatea Nordica a insulei intr-o zona stancoasa. Este al doilea mare oras al insulei. Gazduieste cele mai spectaculoase peisaje din Santorini, iar renumitele apusuri de soare merita sa fie vazute chiar daca in sezon statiunea este mult prea aglomerata. Majoritatea cladirilor sunt construite din roca vulcanica si este foarte usor sa te pierzi printre stradutele inguste ale acestei statiuni. Linistea desavarsita, culorile pastelate, casele care stau suspendate pe stanci, fac din Oia un loc perfect pentru relaxare. <br /><br />
+<strong>FIRA</strong><br />
+-Peisaje spectaculoase <br />
+-Romantic<br />
+Fira este situata in varful unei zone stancoase la 260 m inaltime si ofera o panorama deosebita asupra vulcanului din zona. Orasul este presarat cu stradute inguste. Cladirile sunt pictate in alb cu acoperisuri albastre si terase scaldate in lumina soarelui. Plateia Theotokopoulou este principala piata din Fira unde se intalnesc localnicii. Stradutele mici sunt aglomerate in sezon si pline cu tot felul de magazine, cafenele, restaurante, baruri si cluburi. <br />
+<br />
+<strong>Util si practic</strong><br />
+<br />
+Fira, capitala insulei, te asteapta cu multe baruri, magazine, cafenele si taverne, unele oferind o priveliste spectaculoasa catre Caldera. Pe strazile pietruite ale orasului intalnim o combinatie perfecta intre vechi si nou. <br />
+Oia gazduieste cele mai frumoase privelisti din Santorini: apusuri spectaculoase, cladiri albe cu acoperisuri albastre. Acesta este cel mai pitoresc sat al Greciei, asa ca asigura-te ca nu vei uita camera foto acasa. <br />
+Pyrgos, satul situat la cea mai mare inaltime, isi pastreaza trasaturile medievale. <br />
+Va recomandam drumetiile, sa explorati insula la pas, nu veti regreta. De asemenea puteti inchiria si biciclete. <br />
+<br />
+<strong>Clima</strong><br />
+Insula se bucura de un climat de tip mediteranean, cu veri insorite si uscate si cu ierni blande si ploioase. In perioada estivala, temperaturile sunt intre 17 grC si 29 grC.",1,activ
+118,21,oras,oras,Zakynthos,"<strong>Insula Zakynthos</strong> este vestita pentru frumusetea plajelor sale largi si nisipoase (din Vassilikos, Laganas, Kalamaki, Tsilivi si Alykes) si pentru broastele testoase Caretta - Caretta, specie protejata de lege. Vegetatia insulei este bogata si verde cu plantatii de maslini, citrice si paduri de pini. Plajele sunt rasfirate pe coasta de nord, sud si est, dar cele mai frumoase si mai intinse se afla in sud, unde s-a dezvoltat un puternic centru turistic. <br /> Plaja cu epava unui vapor (Navagio) este o imagine reprezentativa a insulei in toata lumea si unul din punctele turistice cele mai vizitate. Desi initial se chema Agios Georgios, aceasta plaja a fost redenumita (Navagio) dupa naufragiul din 1983 a unui vas ce transporta tigari de contrabanda. Apele marii au impins epava pe tarm, iar nisipul a acoperit-o pana la jumatate. Este una din cele mai celebre si fotografiate plaje din lumea intrega fiind inclusa pe buna dreptate in topul primelor 10.<br /><br /> <strong>Capitala insulei</strong> are acelasi nume, este situata pe coasta de est, intr-un golf, si este centrul comercial si principalul port al insulei. Orasul cunoscut in trecut ca ""Venetia Sudului"" a fost reconstruit dupa ce cutremurul din 1953 si incendiul care i-a urmat a distrus orasul vechi cu conacele si cladirile sale elegante, orasul cel nou incercand sa pastreze pe cat posibil stilul venetian si bizantin al orasului vechi. <br />
+<br /> Statiunea <strong>Laganas</strong>, cea mai mare si mai aglomerata statiune de pe insula a aparut pentru a satisface afluxul mare de turisti in zona. Marea este aici marginita de o plaja cu nisip foarte fin, lunga de 9 km, cea mai mare de pe insula si una din cele mai mari din Grecia. Principala atractie sunt broastele testoase Caretta-Caretta, specie pe cale de disparitie, protejata de lege. Statiunea ofera multe restaurante, taverne, cafenele, cluburi, magazine de suveniruri, centre de inchiriat masini si biciclete si conditii ideale pentru sporturi nautice. <br />
+<br />
+Statiunile, aflate in apropierea capitalei (la maxim 20 km distanta) ofera o vacanta placuta in ritmul ales de dumneavoastra: plaja si baie, shopping, mari magazine si buticuri cu suveniruri, sporturi maritime, viata de noapte, excursii pentru descoperirea frumusetii salbatice a insulei, reculegere in biserici sau pur si simplu odihna pe malul marii. <br /><br /> Statiunea <strong>Tsilivi </strong>este una din cele mai importante statiuni de pe insula, situata la 4 km de capitala Zakynthos. Este inconjurata de livezi de maslini, vii si gradini cu pomi fructiferi, iar plaja cu nisip fin, lunga de 4 km detine distinctia ""Steagul Albastru"". Pe plaja puteti gasi umbrelute, sezlonguri si taverne, iar in statiune puteti savura specialitati culinare locale si internationale in restaurante excelente, taverne si va puteti bucura de viata de noapte in cluburi, pub-uri si discoteci. <br />Wind-surfingul, skiul nautic, plimbarile cu barca sau para-sailingul sunt doar cateva dintre distractiile pe care le puteti gasi aici. <br /><br /> Statiunea <strong>Alykanas </strong>este asezata in pitorescul Golf Alykes, unita de o imensa plaja cu nisip fin si intrare lina in apa, considerata una dintre cele mai bune plaje din Zakynthos. <br /><br /> Statiunea <strong>Argassi </strong>este una dintre cele mai populare statiuni recunoscuta pentru viata de noapte de aici si pentru apropierea de una dintre cele mai bune plaje din Zakynthos unde se pot practica majoritatea sporturilor acvatice. Localizarea acesteia este una deosebita, la poalele Muntelui Skopos. Aceasta s-a dezvoltat foarte mult in ultimii ani datorita proximitatii fata de capitala insulei - Zante Town. <br /><br />
+
+<strong>Util si practic</strong><br /><br />
+
+Insula este recunoscuta pentru productia de masline, ulei de masline si vinuri. Alte produse locale pe care le puteti achizitiona sunt apa de colonie din iasomie (floarea cea mai raspandita de pe insula), obiecte din piele si bijuterii. Specialitatile culinare locale pe care le puteti savura sunt lodotiri - branza, pui umplut sau iepure umplut, tocana de ceapa, skordostoumbi melitzana - tocana de vinete in sos de ceapa, ostropel de vita si tsilipourlo o mancare de Paste din maruntaie de ied sau miel, mandolato aEuronuga sau pasteli - seminte de susan caramelizate cu miere. <br /><br />
+
+<strong>Clima</strong><br />
+Insula se bucura de un climat de tip mediteranean, cu veri insorite si uscate, in perioada estivala, temperaturile medii fiind cuprinse intre 22 grC si 32 grC.",1,activ
+119,21,oras,oras,Paralia - Katerini,,1,activ
+120,47,oras,oras,Bali,,1,activ
+121,45,oras,oras,Ocho Rios,,1,activ
+122,46,oras,oras,Male,,1,activ
+123,48,oras,oras,Larnaca,,1,activ
+124,24,oras,oras,Mallorca,,1,activ
+125,24,oras,oras,Costa Brava &amp; Maresme,,1,activ
+126,24,oras,oras,Gran Canaria,"Gran Canaria face parte din Insulele Canare si este una dintre cele mai frumoase insule, fiind una dintre putinele destinatii europene unde se poate face plaja tot timpul anului. Insula Gran Canaria este asezata in Oceanul Atlantic, la 210 km de continentul african si la 1250 km de coasta Spaniei. Gran Canaria are temperaturi constante cuprinse intre 22-30 grC, cele mai mici temperaturi fiind de 19 grC. <br />
+Cele mai cautate statiuni sunt Las Palmas, San Augustin, Playa del Ingles si Maspalomas. <br /> Cel mai inalt varf de pe insula este Pozo de la Nieves (1949 m). Las Palmas este capitala insulei si are cateva atractii turistice: Museo Canario, Casa de Colon, casa unde a stat Cristofor Columb inainte sa porneasca spre Lumea Noua, catedrala din Plaza de Santa Ana, parcuri pline de palmieri. Vegetatia insulei te surprinde la fiecare pas: mango, papaya, palmieri, muscate, cactusi. <br />
+
+Gran Canaria este locul unde puteti sa va petreceti o vacanta minunata!",1,activ
+127,48,oras,oras,Protaras,,1,activ
+128,48,oras,oras,Limassol,,1,activ
+129,48,oras,oras,Paphos,,1,activ
+130,48,oras,oras,Ayia Napa,,1,activ
+131,43,oras,oras,Madeira,"Madeira (insemnand padure in limba portugheza) este un grup de insule portugheze din nordul oceanului Atlantic. Constand din doua insule locuite (Madeira si Porto Santo) si trei insule nelocuite, formeaza impreuna cu Ilhas Selvagens (Insulele Salbatice) Regiunea Autonoma Madeira. Arhipeleagul este situat la aproximativ 580 km de coasta africana si la 860 km de Lisabona, capitala Portugaliei. <br />
+Madeira constitutuie o regiune ultraperiferica a Uniunii Europene. Cristofor Columb a locuit pe insula Porto Santo timp de 12 ani, inainte de a pleca in calatoriile sale istorice peste ocean. Amplasarea geografica si relieful muntos determina un climat bland, cu temperaturi medii situate intre 22 grC vara si 16 grC iarna. Clima subtropicala este favorabila culturilor de vita de vie (cu renumitul vin de Madeira), trestie de zahar, bananieri, portocali, lamai. Padurea de lauri ""Laurisilva"" de pe insula Madeira a fost inscrisa in anul 1999 pe lista patrimoniului cultural mondial UNESCO.",1,activ
+132,14,oras,oras,Nisa,,1,activ
+133,14,oras,oras,Cannes,,1,activ
+134,49,oras,oras,Monte Carlo,,1,activ
+135,20,oras,oras,Riviera Holiday Club,,1,inactiv
+136,20,oras,oras,Russalka Holiday Village,,1,inactiv
+137,20,oras,oras,Kranevo,,1,inactiv
+138,20,oras,oras,Byala Resort,,1,inactiv
+139,20,oras,oras,St. Vlas Resort,,1,inactiv
+140,20,oras,oras,Sveti Vlas - Dinevi Resort,,1,inactiv
+141,20,oras,oras,Ravda,,1,inactiv
+142,20,oras,oras,Sarafovo,,1,inactiv
+143,20,oras,oras,Burgas,,1,inactiv
+144,20,oras,oras,Sozopol,,1,activ
+145,20,oras,oras,Arkutino,,1,inactiv
+146,20,oras,oras,Primorsko,,1,inactiv
+147,20,oras,oras,Kiten,,1,inactiv
+148,20,oras,oras,Lozenets Resort,,1,inactiv
+149,20,oras,oras,Tzarevo,,1,inactiv
+150,50,oras,oras,Dubrovnik,"Dubrovnik este un port si una dintre cele mai importante statiuni turistice de la Marea Adriatica, in sudul Croatiei. Dubrovnik face parte din locurile incluse in Patrimoniul Mondial UNESCO din anul 1979.",1,activ
+151,50,oras,oras,Mlini,"Mlini este o statiune balneara din sudul Croatiei, situata la 12 km sud de Dubrovnik si 22 km de Cavtat.",1,activ
+152,50,oras,oras,Cavtat,"Cavtat este o statiune situata in sudul Croatiei, pe malul Marii Adriatice, la o distanta de 20 km sud de Dubrovnik. Cavtat este renumit pentru peisajul pitoresc si plin de vegetatie al locurilor cat si pentru arhitectura medievala a orasului.",1,activ
+153,19,oras,oras,Constanta,,1,activ
+154,51,oras,oras,Mexico City,,1,activ
+155,42,oras,oras,Bavaro,,1,activ
+156,24,oras,oras,Ibiza,"Fenicienii au infiintat acum 2600 de ani orasul Ibiza. De atunci, cei 572 km 2 ai insulei au absorbit infulentele culturale ale cartaginezilor, romanilor, bizantinilor, arabilor si crestinilor. <br /><br />
+Cateva dintre cele mai cunoscute statiuni turistice se afla in imediata apropiere a orasului Ibiza: <br />Playa d`en Bossa are o plaja lunga de 3 km cu nisip fin; aici se afla parcul acvatic Aguamar, precum si discotecile Space si Bora Bora. <br />Figueretes are o plaja mai mica si poate fi considerata o extensie a orasului Ibiza. <br />Talamanca este situata in nordul orasului Ibiza si are o plaja lunga de aproape 1 km situata in jurul unui golf natural. <br />Santa Eularia este un alt centru turistic important si al doilea oras ca marime dupa Ibiza; o foarte frumoasa promenada se intinde de-a lungul portului si pe malul marii. <br />In vestul insulei, cu un golf superb numit de romani Portus Magnus, se afla statiunea Sant Antoni care a devenit unul dintre cele mai mari si mai animate centre turistice de pe insula. Sant Antoni este locul perfect pentru a urmari cele mai frumoase apusuri de soare si in acelasi timp locul ideal pentru practicarea sporturilor nautice.",1,activ
+157,24,oras,oras,Tenerife,,1,activ
+158,35,oras,oras,Helsinki,,1,activ
+159,21,oras,oras,Lefkada,,1,activ
+160,24,oras,oras,Costa Dorada,,1,activ
+161,3,oras,oras,Safaga,,1,activ
+162,34,oras,oras,Bethleem,,1,activ
+163,34,oras,oras,Tiberias,,1,activ
+164,22,oras,oras,Salzburg,,1,activ
+165,22,oras,oras,Zillertal,,1,activ
+166,22,oras,oras,Funchal,,1,activ
+167,66,oras,oras,Bruges,,1,activ
+168,22,oras,oras,Graz,,1,activ
+169,22,oras,oras,Innsbruck,,1,activ
+170,22,oras,oras,Klagenfurt,,1,activ
+171,20,oras,oras,Rousalka,,1,inactiv
+172,66,oras,oras,Gent,,1,activ
+173,66,oras,oras,Charleroi,,1,activ
+174,66,oras,oras,Liege,,1,activ
+175,27,oras,oras,Karlovy Vary,,1,activ
+176,27,oras,oras,Brno,,1,activ
+177,64,oras,oras,Shanghai,,1,activ
+178,64,oras,oras,Hong Kong,,1,activ
+179,64,oras,oras,Xian,,1,activ
+180,50,oras,oras,Split,,1,activ
+181,50,oras,oras,Rijeka,,1,activ
+182,50,oras,oras,Zagreb,,1,activ
+183,50,oras,oras,Pula,,1,activ
+184,41,oras,oras,Abu Dhabi,,1,activ
+185,3,oras,oras,Cairo,,1,activ
+186,3,oras,oras,Luxor,,1,activ
+187,3,oras,oras,Aswan,,1,activ
+188,3,oras,oras,Abu Simbel,,1,activ
+189,35,oras,oras,Rovaniemi,,1,activ
+190,14,oras,oras,Bordeaux,,1,activ
+191,14,oras,oras,Lyon,,1,activ
+192,14,oras,oras,Marsilia,,1,activ
+193,14,oras,oras,Dijon,,1,activ
+194,17,oras,oras,Munich,,1,activ
+195,21,oras,oras,Stuttgart,,1,activ
+196,17,oras,oras,Koln,,1,activ
+197,17,oras,oras,Bonn,,1,activ
+198,17,oras,oras,Nurnberg,,1,activ
+199,17,oras,oras,Hamburg,,1,activ
+200,17,oras,oras,Dresda,,1,activ
+201,17,oras,oras,Hanovra,,1,activ
+202,21,oras,oras,Thasos,,1,activ
+203,21,oras,oras,Atena,,1,activ
+204,21,oras,oras,Mikonos,,1,activ
+205,21,oras,oras,Lesbos,,1,activ
+206,47,oras,oras,Jakarta,,1,activ
+207,34,oras,oras,Nazaret,,1,activ
+208,34,oras,oras,Ierusalim,,1,activ
+209,34,oras,oras,Eilat,,1,activ
+210,34,oras,oras,Haifa,,1,activ
+211,16,oras,oras,Torino,,1,activ
+212,16,oras,oras,Milano,,1,activ
+213,16,oras,oras,Verona,,1,activ
+214,16,oras,oras,Florenta,,1,activ
+215,16,oras,oras,Venetia,,1,activ
+216,16,oras,oras,Bologna,,1,activ
+217,16,oras,oras,Genova,,1,activ
+218,16,oras,oras,Pisa,,1,activ
+219,16,oras,oras,Livorno,,1,activ
+220,16,oras,oras,Bari,,1,activ
+221,16,oras,oras,Salerno,,1,activ
+222,16,oras,oras,Napoli,,1,activ
+223,16,oras,oras,Mesina,,1,activ
+224,16,oras,oras,Palermo,,1,activ
+225,16,oras,oras,Cagliari,,1,activ
+226,16,oras,oras,Taormina,,1,activ
+227,45,oras,oras,Kingston,,1,activ
+228,45,oras,oras,Montego Bay,,1,activ
+229,45,oras,oras,Portmore,,1,activ
+230,45,oras,oras,Rio Bueno,,1,activ
+231,65,oras,oras,Kyoto,,1,activ
+232,65,oras,oras,Osaka,,1,activ
+233,65,oras,oras,Yokohama,,1,activ
+234,28,oras,oras,Manchester,,1,activ
+235,28,oras,oras,Leeds,,1,activ
+236,28,oras,oras,Liverpool,,1,activ
+237,28,oras,oras,Sheffield,,1,activ
+238,28,oras,oras,Edinburgh,,1,activ
+239,28,oras,oras,Glasgow,,1,activ
+240,28,oras,oras,Belfast,,1,activ
+241,54,oras,oras,Marakkes,,1,activ
+242,54,oras,oras,Fez,,1,activ
+243,54,oras,oras,Casablanca,,1,activ
+244,51,oras,oras,Guadalajara,,1,activ
+245,51,oras,oras,Veracruz,,1,activ
+246,51,oras,oras,Cancun,,1,activ
+247,76,oras,oras,Bergen,,1,activ
+248,108,oras,oras,Cracovia,,1,activ
+249,108,oras,oras,Katovice,,1,activ
+250,108,oras,oras,Wroklaw,,1,activ
+251,108,oras,oras,Poznan,,1,activ
+252,108,oras,oras,Gdansk,,1,activ
+253,43,oras,oras,Faro,,1,activ
+254,43,oras,oras,Estoril,,1,activ
+255,43,oras,oras,Porto,,1,activ
+256,43,oras,oras,Coimbra,,1,activ
+257,43,oras,oras,Santiago de Compostella,,1,activ
+258,43,oras,oras,Cascais,,1,activ
+259,57,oras,oras,St Petersburg,,1,activ
+260,24,oras,oras,Madrid,,1,activ
+261,24,oras,oras,Valencia,,1,activ
+262,24,oras,oras,Granada,,1,activ
+263,24,oras,oras,Malaga,,1,activ
+264,24,oras,oras,Sevilia,,1,activ
+265,24,oras,oras,Zaragoza,,1,activ
+266,97,oras,oras,Dakar,,1,activ
+267,74,oras,oras,Belgrad,,1,activ
+268,98,oras,oras,Mahe,,1,activ
+269,56,oras,oras,Bratislava,,1,activ
+270,56,oras,oras,Kosice,,1,activ
+271,56,oras,oras,Brezno,,1,activ
+272,73,oras,oras,Liubliana,,1,activ
+273,44,oras,oras,Colombo,,1,activ
+274,44,oras,oras,Matara,,1,activ
+275,53,oras,oras,Oslo,,1,activ
+276,63,oras,oras,Phuket,,1,activ
+277,63,oras,oras,Pattaya,,1,activ
+278,63,oras,oras,Bangkok,,1,activ
+279,63,oras,oras,Krabi,,1,activ
+280,101,oras,oras,Taipei,,1,activ
+281,96,oras,oras,Dar es Salaam,,1,activ
+282,96,oras,oras,Zanzibar,,1,activ
+283,96,oras,oras,Dodoma,,1,activ
+284,104,oras,oras,Hobart,,1,activ
+285,2,oras,oras,Tunis,,1,activ
+286,58,oras,oras,Kiev,,1,activ
+287,58,oras,oras,Odessa,,1,activ
+288,59,oras,oras,Budapesta,,1,activ
+289,88,oras,oras,Montevideo,,1,activ
+290,81,oras,oras,Caracas,,1,activ
+291,80,oras,oras,Ho Chi Min,,1,activ
+292,80,oras,oras,Hanoi,,1,activ
+293,62,oras,oras,Buenos Aires,,1,activ
+294,62,oras,oras,Bahia Bianca,,1,activ
+295,62,oras,oras,Mar del Plata,,1,activ
+296,100,oras,oras,Canberra,,1,activ
+297,100,oras,oras,Sydney,,1,activ
+298,100,oras,oras,Melbourne,,1,activ
+299,100,oras,oras,Brisbane,,1,activ
+300,100,oras,oras,Perth,,1,activ
+301,90,oras,oras,Belmopan,,1,activ
+302,90,oras,oras,Belize City,,1,activ
+303,90,oras,oras,Punta Gorda,,1,activ
+304,90,oras,oras,Dangriga,,1,activ
+305,85,oras,oras,La Paz,,1,activ
+306,85,oras,oras,Salar de Uyuni,,1,activ
+307,85,oras,oras,Colchani,,1,activ
+308,85,oras,oras,Potosi,,1,activ
+309,85,oras,oras,Sucre,,1,activ
+310,61,oras,oras,Brasilia,,1,activ
+311,61,oras,oras,Rio de Janeiro,,1,activ
+312,61,oras,oras,Sao Paolo,,1,activ
+313,61,oras,oras,Manaus,,1,activ
+314,106,oras,oras,Ottawa,,1,activ
+315,106,oras,oras,Montreal,,1,activ
+316,106,oras,oras,Toronto,,1,activ
+317,106,oras,oras,Vancouver,,1,activ
+318,84,oras,oras,Santiago de Chile,,1,activ
+319,84,oras,oras,Punta Arenas,,1,activ
+320,86,oras,oras,Bogota,,1,activ
+321,86,oras,oras,Cartagena,,1,activ
+322,93,oras,oras,San Jose,,1,activ
+323,93,oras,oras,Puntarenas,,1,activ
+324,93,oras,oras,Poas,,1,activ
+325,93,oras,oras,Tortuguero,,1,activ
+326,60,oras,oras,Havana,,1,activ
+327,60,oras,oras,Varadero,,1,activ
+328,82,oras,oras,Quito,,1,activ
+329,69,oras,oras,Talin,,1,activ
+330,105,oras,oras,Suva,,1,activ
+331,77,oras,oras,Manila,,1,activ
+332,77,oras,oras,Boracay,,1,activ
+333,89,oras,oras,Guatemala City,,1,activ
+334,89,oras,oras,Antigua,,1,activ
+335,102,oras,oras,Honolulu,,1,activ
+336,91,oras,oras,Tegucigalpa,,1,activ
+337,79,oras,oras,Amman,,1,activ
+338,79,oras,oras,Aqaba,,1,activ
+339,79,oras,oras,Petra,,1,activ
+340,70,oras,oras,Dublin,,1,activ
+341,75,oras,oras,Reykjavik,,1,activ
+342,95,oras,oras,Nairobi,,1,activ
+343,68,oras,oras,Riga,,1,activ
+344,67,oras,oras,Vilnius,,1,activ
+345,99,oras,oras,Antananarivo,,1,activ
+346,92,oras,oras,Managua,,1,activ
+347,103,oras,oras,Wellington,,1,activ
+348,103,oras,oras,Auckland,,1,activ
+349,71,oras,oras,Amsterdam,,1,activ
+350,71,oras,oras,Haga,,1,activ
+351,71,oras,oras,Eindhoven,,1,activ
+352,87,oras,oras,Asuncion,,1,activ
+353,83,oras,oras,Lima,,1,activ
+354,22,oras,oras,Strobl am Wolfgangsee,,1,activ
+355,22,oras,oras,Abtenau,,1,activ
+356,22,oras,oras,Golling,,1,activ
+357,22,oras,oras,Bad Goisern,,1,activ
+358,22,oras,oras,Bischofshofen,,1,activ
+359,22,oras,oras,Neustift/Ghetarul Stubai,,1,activ
+360,22,oras,oras,Mattrei in Osttirol,,1,activ
+361,22,oras,oras,Pians/Ischgl,,1,activ
+362,22,oras,oras,Ischgl,,1,activ
+363,22,oras,oras,Kappl/Ischgl,,1,activ
+364,22,oras,oras,Landeck/Ischgl,,1,activ
+365,22,oras,oras,Finkenberg/Ghetarul Hintertux,,1,activ
+366,22,oras,oras,Gerlos,,1,activ
+367,1,oras,oras,Cesme,,1,inactiv
+368,1,oras,oras,Didim,,1,activ
+369,0,oras,oras,Ozdere,,1,activ
+370,1,oras,oras,Ozdere,,1,activ
+371,20,oras,oras,Sarafovo,,1,activ
+372,20,oras,oras,Kranevo,,1,activ
+373,20,oras,oras,Riviera,,1,activ
+374,20,oras,oras,St. Vlas,,1,activ
+375,20,oras,oras,Ravda,,1,activ
+376,20,oras,oras,Aheloy,,1,activ
+377,20,oras,oras,Kavarne Area,,1,activ
+378,20,oras,oras,Topola Skies,,1,activ
+379,20,oras,oras,Byala,,1,activ

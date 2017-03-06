@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+<head>
+ 
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> {{ CNF_APPNAME }} | {{ $pageTitle}} </title>
+	<meta name="keywords" content="{{ $pageMetakey }}">
+	<meta name="description" content="{{ $pageMetadesc }}"/>
+	<link rel="shortcut icon" href="" type="image/x-icon">	
+ 	
+	<!--[if lt IE 9]>
+	<script src="{{ asset('sximo/themes/veratravel/js/main/html5.js') }}"></script>
+	<![endif]-->
+
+	<!--FAVICONS-->
+    <link rel="shortcut icon" href="{{ asset('sximo/themes/veratravel/img/favicon/favicon.ico') }}">
+    <link rel="apple-touch-icon" href="{{ asset('sximo/themes/veratravel/img/favicon/apple-touch-icon.png') }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('sximo/themes/veratravel/img/favicon/apple-touch-icon-72x72.png') }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('sximo/themes/veratravel/img/favicon/apple-touch-icon-114x114.png') }}">
+    <!--END FAVICONS-->
+    
+
+
+
+   <script>
+        /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+        if ( typeof WebFontConfig === "undefined" ) {
+            WebFontConfig = new Object();
+        }
+        WebFontConfig['google'] = {families: ['Open+Sans', 'Montez&amp;subset=latin']};
+
+        (function() {
+            var wf = document.createElement( 'script' );
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+            wf.type = 'text/javascript';
+            wf.async = 'true';
+            var s = document.getElementsByTagName( 'script' )[0];
+            s.parentNode.insertBefore( wf, s );
+        })();
+    </script>
+        
+
+	<style id='rs-plugin-settings-inline-css' type='text/css'>
+	.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+	</style>
+	<link rel='stylesheet' id='style-css'  href="{{ asset('sximo/themes/veratravel/css/style.css?ver=4.2.2') }}" type='text/css' media='all' />
+	<link rel='stylesheet' id='responsive-css'  href="{{ asset('sximo/themes/veratravel/css/nicdark_responsive.css') }}" type='text/css' media='all' />
+	<!-- <link rel='stylesheet' id='responsive-css'  href="{{ asset('sximo/themes/veratravel/css/nicdark_style.css') }}" type='text/css' media='all' /> -->
+	<link rel='stylesheet' id='nicdark_elusive_icons-css'  href="{{ asset('sximo/themes/veratravel/elusive-icons/elusive-icons.css?ver=4.2.2') }}" type='text/css' media='all' />
+	<link rel='stylesheet' id='js_composer_front-css'  href="{{ asset('sximo/themes/veratravel/css/js_composer.css?ver=4.5.1') }}" type='text/css' media='all' />
+
+	<link rel='stylesheet' id='style-css'  href="{{ asset('sximo/themes/veratravel/css/bogeo.css?ver=1.0') }}" type='text/css' media='all' />
+
+	<script type="text/javascript" src="{{ asset('sximo/js/plugins/jquery.min.js') }}"></script>
+	<script type="text/javascript" src="{{ asset('sximo/themes/sximone/js/bootstrap.min.js') }}"></script>	
+	<script type="text/javascript" src="{{ asset('sximo/js/plugins/parsley.js') }}"></script>	
+	<script type="text/javascript" src="{{ asset('sximo/themes/sximone/js/fancybox/source/jquery.fancybox.js') }}"></script>	
+	<script type="text/javascript" src="{{ asset('sximo/themes/sximone/js/jquery.mixitup.min.js') }}"></script>
+	
+	<!-- <script type="text/javascript" src="{{ asset('/sximo/themes/veratravel/js/main/jquery-1.11.2.min.js') }}"></script> -->
+	<script type="text/javascript" src="{{ asset('/sximo/themes/veratravel/js/main/excanvas.js') }}"></script>
+	<script type="text/javascript" src="{{ asset('/sximo/themes/veratravel/js/main/jquery-ui.js') }}"></script>
+		
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->		
+
+</head>
+
+<body id="start_nicdark_framework">
+	
+
+<div class="nicdark_site">
+	<div class="nicdark_site_fullwidth_boxed nicdark_site_fullwidth nicdark_clearfix">
+		<div class="nicdark_section nicdark_navigation nicdark_upper_level2 slowdown">
+			<div class="nicdark_menu_fullwidth_boxed nicdark_menu_fullwidth">
+				
+				
+				<!-- START TOP BAR BEFORE MENU -->
+				<div class="nicdark_section nicdark_bg_greydark nicdark_displaynone_responsive">
+					<div class="nicdark_container nicdark_clearfix">
+						<div class="grid grid_6">
+							<div class="nicdark_focus">
+								<h6 class="white"><i class="icon-mail"></i><a class="white title" href="#">info@travel.com</a><span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span><i class="icon-phone"></i><a class="white title" href="#">+44 5227653</a><span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span><i class="icon-clock"></i> 9-13  to  14-18 </h6>
+							</div>
+						</div>
+						<div class="grid grid_6 right">
+							
+							<div class="nicdark_focus right">
+								<h6 class="white">
+									<i class="icon-globe"></i>
+										<!-- <ul class="list-unstyled list-inline">
+						                	<li> {{ Lang::get('core.language') }} : </li>
+											@foreach(SiteHelpers::langOption() as $lang)
+												<li><a href="{{ URL::TO('home/lang/'.$lang['folder']) }}"> 
+													<span @if(Session::get('lang') == $lang['folder']) class="label label-success" @endif>
+													{{  strtoupper($lang['folder']) }} / </span>  
+												</a></li>
+											@endforeach
+						                </ul> -->
+										<a class="nicdark_outline white title" href="#">Language</a>
+										<span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>
+									@if(!Auth::check()) 	
+										<i class="icon-key"></i>
+										<a class="white title" href="{{ URL::to('user/register') }}"><i class="fa fa-user"></i> {{ Lang::get('core.signup') }}</a>
+										<span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>
+										<i class="icon-lock"></i>
+										<a class="white title" href="{{ URL::to('user/login') }}"><i class="fa fa-sign-in"></i> {{ Lang::get('core.signin') }}</a>
+									@else
+										<i class="icon-key"></i>
+										<a class="white title" href="{{ URL::to('user/profile') }}"><i class="fa fa-user "></i> {{ Lang::get('core.m_myaccount') }}</a>
+										<span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>
+										<i class="icon-lock"></i>
+										<a class="white title" href="{{ URL::to('dashboard') }}"><i class="fa fa-desktop"></i> {{ Lang::get('core.m_dashboard') }}</a>
+										<span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>
+										<i class="icon-lock"></i>
+										<a class="white title" href="{{ URL::to('user/logout') }}"><i class="fa  fa-sign-out"></i> {{ Lang::get('core.m_logout') }}</a>					 
+									 @endif
+								</h6>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END TOP BAR BEFORE MENU -->
+				
+				
+				<!-- START MUTI COLOR LINE -->
+				<div class="nicdark_space3 nicdark_bg_gradient"></div>
+				<!-- END MUTI COLOR LINE -->
+				<!-- START MAIN MENU -->
+				<div class="nicdark_bg_white nicdark_section nicdark_border_grey nicdark_sizing">
+					<div class="nicdark_container nicdark_clearfix">
+						<div class="grid grid_12 percentage">
+							<!-- <div class="nicdark_space20"></div> -->
+							<div class="nicdark_logo nicdark_marginleft10">
+								<a href="http://travel.denku.ro/"><img alt="logo" src="{{ asset('sximo/themes/veratravel/img/logo_mini.jpg') }}"></a>
+							</div>							
+							
+							<div class="menu-main-menu-container">
+								@include('layouts/sximone/topbar')
+							</div><!--/nav-collapse -->
+							
+						</div>
+					</div>
+				</div>
+				<!-- END MAIN MENU -->
+			</div>
+		</div>
+		<!-- <div class="nicdark_space160"></div> -->
+	</div>
+</div>
+
+
+
+<div style="min-height:400px;">
+@include($pages);
+</div>
+
+
+
+
+
+<section class="nicdark_section nicdark_bg_greydark nicdark_dark_widgets">
+	<!--start nicdark_container-->
+	<div class="nicdark_container nicdark_clearfix">
+		<div class="nicdark_space30"></div>
+		<div class="grid grid_3 nomargin percentage">
+			<div class="nicdark_space20"></div>
+			<div class="nicdark_margin10">
+				<div id="text-2" class="widget widget_text">
+					<h2>VERA TRAVEL</h2>
+					<div class="textwidget">
+						<ul class="nicdark_list">
+							<li>
+								<p class="nicdark_margin100 white nicdark_margintop0">
+									<i class="icon-location"></i>&nbsp;&nbsp;Calea Calarasilor nr. 311, Bl. 71, Sc.1, Ap.2 parter, Sector 3, Bucuresti, Romania (Piata Muncii)
+								</p>
+							</li>
+							<li>
+								<p class="nicdark_margin100 white">
+									<i class="icon-phone"></i>&nbsp;&nbsp;Phone/Fax: +4 031 425 4392
+								</p>
+							</li>
+							<li>
+								<p class="nicdark_margin100 white">
+									<i class="icon-mail"></i>&nbsp;&nbsp;&nbsp;Mail: office@veratravel.ro
+								</p>
+							</li>
+						</ul>
+						<div class="nicdark_space20"></div>
+						<!-- <a href="#" class="nicdark_btn_icon nicdark_bg_violet small white"> <i class="icon-paper-plane nicdark_rotate"></i> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="#" class="nicdark_btn_icon nicdark_bg_blue small white"> <i class="icon-skype nicdark_rotate"></i> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="#" class="nicdark_btn_icon nicdark_bg_green small white"> <i class="icon-chat nicdark_rotate"></i> </a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="grid grid_3 nomargin percentage">
+			<div class="nicdark_space20"></div>
+			<div class="nicdark_margin10">
+				<div id="tag_cloud-2" class="widget widget_tag_cloud">
+					<h2>INFO</h2>
+					<!-- <div class="tagcloud">
+						<a href="#" class="tag-link-74" title="3 topics" style="font-size: 15px;">Adventure</a>
+						<a href="#" class="tag-link-75" title="1 topic" style="font-size: 15px;">Cars</a>
+						<a href="#" class="tag-link-76" title="4 topics" style="font-size: 15px;">Cruise</a>
+						<a href="#" class="tag-link-77" title="1 topic" style="font-size: 15px;">Cultural</a>
+						<a href="#" class="tag-link-78" title="1 topic" style="font-size: 15px;">Honeymoon</a>
+						<a href="#" class="tag-link-79" title="1 topic" style="font-size: 15px;">Package</a>
+						<a href="#" class="tag-link-80" title="1 topic" style="font-size: 15px;">Relax</a>
+						<a href="#" class="tag-link-81" title="1 topic" style="font-size: 15px;">Rent</a>
+						<a href="#" class="tag-link-82" title="1 topic" style="font-size: 15px;">Tour</a>
+						<a href="#" class="tag-link-83" title="4 topics" style="font-size: 15px;">Travel</a>
+					</div> -->
+					<ul class="pdf">
+						<li><a href="/pdf/LicentaVeraTravel-2015-100.pdf" target="_blank">Licenta turism</a></li>
+						<li><a href="/pdf/BrevetAlecuAlina-p1s.pdf" target="_blank">Brevet Turism</a></li>
+						<li><a href="/pdf/PolAg-VeraTravel-2015-16-100.pdf" target="_blank">Polita Insolvabilitate</a></li>
+						<li><a href="/pdf/CertificatInmatriculare-VTSs.pdf" target="_blank">Certificat inmatriculare</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="grid grid_3 nomargin percentage">
+
+			<div class="nicdark_space20"></div>
+
+			<div class="nicdark_margin10">
+				<div id="text-4" class="widget widget_text">
+					<h2>DESPRE NOI</h2>
+					<!-- <div class="textwidget"><img alt="" class="nicdark_activity nicdark_padding14_right nicdark_sizing nicdark_width_percentage33" src="{{ asset('sximo/themes/veratravel/img/love-travel-5-200.jpg') }}">
+
+						<img alt="" class="nicdark_activity nicdark_padding07 nicdark_sizing nicdark_width_percentage33" src="{{ asset('sximo/themes/veratravel/img/love-travel-1-200.jpg') }}">
+
+						<img alt="" class="nicdark_activity nicdark_padding14_left nicdark_sizing nicdark_width_percentage33" src="{{ asset('sximo/themes/veratravel/img/love-travel-2-200.jpg') }}">
+
+						<img alt="" class="nicdark_margintop20 nicdark_activity nicdark_padding14_right nicdark_sizing nicdark_width_percentage33" src="{{ asset('sximo/themes/veratravel/img/love-travel-3-200.jpg') }}">
+
+						<img alt="" class="nicdark_margintop20 nicdark_activity nicdark_padding07 nicdark_sizing nicdark_width_percentage33" src="{{ asset('sximo/themes/veratravel/img/love-travel-4-200.jpg') }}">
+
+						<img alt="" class="nicdark_margintop20 nicdark_activity nicdark_padding14_left nicdark_sizing nicdark_width_percentage33" src="{{ asset('sximo/themes/veratravel/img/love-travel-6-200.jpg') }}">
+					</div> -->
+					<div class="textwidget">
+						<p>Infiintata inca din 2003, agentia de turism VERA TRAVEL, vine in intampinarea dvs, cu programe turistice care sa imbine perfect raportul calitate-pret si sa introduca oferte si destinatii noi.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="grid grid_3 nomargin percentage">
+			<div class="nicdark_space20"></div>
+			<div class="nicdark_margin10">
+				<div id="text-3" class="widget widget_text">
+					<h2>CONTACT</h2>
+					<div class="textwidget">
+						<div role="form" class="wpcf7" id="wpcf7-f19-o8" dir="ltr" lang="en-US">
+							<div class="screen-reader-response"></div>
+							<form name="" action="/themes/love-travel/wp/demo-travel/#wpcf7-f19-o8" method="post" class="wpcf7-form" novalidate="novalidate">
+								<div style="display: none;">
+									<input name="_wpcf7" value="19" type="hidden">
+									<input name="_wpcf7_version" value="4.1.2" type="hidden">
+									<input name="_wpcf7_locale" value="en_US" type="hidden">
+									<input name="_wpcf7_unit_tag" value="wpcf7-f19-o8" type="hidden">
+									<input name="_wpnonce" value="bb3954a17d" type="hidden">
+								</div>
+								<div class="nicdark_margintop10_negative">
+									<span class="wpcf7-form-control-wrap email-484">
+										<input name="email-484" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_bg_greydark2" aria-required="true" aria-invalid="false" placeholder="EMAIL" type="email">
+									</span><span class="wpcf7-form-control-wrap textarea-322">												<textarea name="textarea-322" cols="40" rows="2" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required nicdark_bg_greydark2 nicdark_border_none" aria-required="true" aria-invalid="false" placeholder="MESSAGE"></textarea></span>
+									<input value="SEND" class="wpcf7-form-control wpcf7-submit nicdark_bg_green nicdark_btn small nicdark_height_initial" type="submit">
+									<!-- <img style="visibility: hidden;" alt="Sending ..." src="Love%20Travel%20_%20Just%20another%20WordPress%20site_files/ajax-loader.gif" class="ajax-loader"> -->
+								</div>
+								<div class="wpcf7-response-output wpcf7-display-none"></div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="nicdark_space10"></div>
+	</div>
+	<!--end nicdark_container-->
+</section>
+<div class="nicdark_section nicdark_bg_greydark2 ">
+
+	<!--start nicdark_container-->
+	<div class="nicdark_container nicdark_clearfix">
+
+		<div class="grid grid_6 nicdark_aligncenter_iphoneland nicdark_aligncenter_iphonepotr">
+			<div class="nicdark_space20"></div>
+
+			<p class="white">
+				Copyright 2015 {{ CNF_APPNAME }} . ALL Rights Reserved.
+			</p>
+		</div>
+
+		<div class="grid grid_6">
+			<div class="nicdark_focus right nicdark_aligncenter_iphoneland nicdark_aligncenter_iphonepotr">
+
+				<div class="nicdark_margin10">
+					<a href="#" class="nicdark_press right nicdark_btn_icon nicdark_bg_blue small white"><i class="icon-twitter-1"></i></a>
+				</div>
+				<!-- <div class="nicdark_margin10">
+					<a href="#" class="nicdark_press right nicdark_btn_icon nicdark_bg_red small white"><i class="icon-youtube-play"></i></a>
+				</div> -->
+				<div class="nicdark_margin10">
+					<a href="#" class="nicdark_press right nicdark_btn_icon nicdark_facebook small white"><i class="icon-facebook"></i></a>
+				</div>
+				<!--back to top-->
+
+				<div class="nicdark_margin10">
+					<a href="#start_nicdark_framework" class="nicdark_zoom nicdark_internal_link right nicdark_btn_icon nicdark_bg_greydark2 small nicdark_radius white"><i class="icon-up-open"></i></a>
+				</div>
+				<!--back to top-->
+			</div>
+		</div>
+	</div>
+	<!--end nicdark_container-->
+</div>
+
+
+
+<script>
+	jQuery(document).ready(function() {
+
+		window.prettyPrint && prettyPrint();
+	});
+</script>	
+</body> 
+</html>

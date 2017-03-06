@@ -1,0 +1,81 @@
+.roomifier-hidden{
+  display: none;
+}
+
+.roomifier-hidden-in{
+  display: none !important;
+}
+
+.roomifier-content{
+  background: #fff;
+  position: absolute;
+  border: 1px #ccc solid;
+  border-radius: 3px;
+  padding: 10px;
+  z-index: 9999;
+  min-width: 405px;
+  box-shadow: -2px 4px 5px 1px rgba(0,0,0,0.5);
+  -moz-box-shadow: -2px 4px 5px 1px rgba(0,0,0,0.5);
+  -webkit-box-shadow: -2px 4px 5px 1px rgba(0,0,0,0.5);
+  overflow: visible !important;
+  cursor:auto;
+}
+
+.roomifier-rooms-selector, .roomifier-rooms-content, .roomifier-adults-selector, .roomifier-kids-selector, .roomifier-ages-div, .roomifier-age-selector{
+  float: left;
+  display: block;
+}
+
+.roomifier-rooms-content{
+  margin: 0 10px;
+}
+
+.roomifier-adults-selector, .roomifier-kids-selector, .roomifier-age-selector{
+  margin-left: 10px;
+}
+
+.roomifier-rooms-selector label, .roomifier-adults-selector label, .roomifier-kids-selector label{
+  display: block;
+  padding-left: 2px;
+}
+
+.roomifier-ages-div label{
+  display: block;
+  padding-left: 10px;
+}
+
+.roomifier-input{
+  background: none;
+  width: 135px;
+  border-right: 1px #aaa solid;
+  border-left: 0;
+  border-top: 0;
+  border-bottom: 0;
+  margin-left: 5px;
+  height: 30px;
+  font-size: 14px !important;
+  color: #666;
+  width: 135px;
+  -webkit-appearance: none;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  cursor: pointer;
+}
+
+.roomifier-input-div{
+  width: 170px;
+  background: #fff;
+  height: 40px;
+  line-height: 40px;
+  margin-top: 12px;
+  text-align: left;
+  border: 1px solid #c9c9c9;
+  border-radius: 3px;
+  width: 170px;
+  cursor: pointer;
+}
+
+.roomifier-down-arrow{
+  color: #666;
+  padding-left: 6px;
+}

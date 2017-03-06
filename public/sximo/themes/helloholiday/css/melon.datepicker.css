@@ -1,0 +1,112 @@
+{
+	font-size: 90%;
+}
+
+.ui-widget {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif !important;
+	background: #2e3641 !important;
+	border: none !important;
+	border-radius: 0 !important;
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+}
+
+.ui-datepicker {
+	padding: 0 !important;
+}
+
+.ui-datepicker-header {
+	border: none !important;
+	background: transparent !important;
+	font-weight: normal !important;
+	font-size: 15px !important;
+}
+
+.ui-datepicker-header .ui-state-hover {
+	background: transparent !important;
+	border-color: transparent !important;
+	cursor: pointer !important;
+	border-radius: 0 !important;
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+}
+
+.ui-datepicker .ui-datepicker-title {
+	margin-top: .4em !important;
+	margin-bottom: .3em !important;
+	color: #e9f0f4 !important;
+}
+
+.ui-datepicker .ui-datepicker-prev-hover,
+.ui-datepicker .ui-datepicker-next-hover,
+.ui-datepicker .ui-datepicker-next,
+.ui-datepicker .ui-datepicker-prev {
+	top: .9em !important;
+	border:none !important;
+}
+
+.ui-datepicker .ui-datepicker-prev-hover {
+	left: 2px !important;
+}
+
+.ui-datepicker .ui-datepicker-next-hover {
+	right: 2px !important;
+}
+
+.ui-datepicker .ui-datepicker-next span,
+.ui-datepicker .ui-datepicker-prev span {
+	background-image: url(../images/ui-icons_ffffff_256x240.png) !important;
+	background-position: -32px 0 !important;
+	margin-top: 0 !important;
+	top: 0 !important;
+	font-weight: normal !important;
+}
+
+.ui-datepicker .ui-datepicker-prev span {
+	background-position: -96px 0 !important;
+}
+
+.ui-datepicker table {
+	margin: 0 !important;
+}
+
+.ui-datepicker th {
+	padding: 1em 0 !important;
+	color: #ccc !important;
+	font-size: 13px !important;
+	font-weight: normal !important;
+	border: none !important;
+	border-top: 1px solid #3a414d !important;
+}
+
+.ui-datepicker td {
+	background: #19afd2 !important;
+	border: none !important;
+	padding: 0 !important;
+}
+
+td .ui-state-default {
+	background: transparent !important;
+	border: none !important;
+	text-align: center !important;
+	padding: .5em !important;
+	margin: 0 !important;
+	font-weight: normal !important;
+	color: #efefef !important;
+	font-size: 16px !important;
+}
+
+.ui-state-disabled  {
+	opacity: 1 !important;
+}
+
+.ui-state-disabled .ui-state-default {
+	color: #ffffff !important;
+	opacity: 0.3;
+}
+
+td .ui-state-active,
+td .ui-state-hover {
+	background: #2e3641 !important;
+}
+

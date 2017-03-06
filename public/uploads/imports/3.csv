@@ -1,0 +1,341 @@
+id,parren,type,name
+1,1,oras,Kusadasi
+2,1,oras,Bodrum
+3,1,oras,Marmaris
+4,1,oras,Antalya
+5,1,oras,Belek
+6,1,oras,Side
+7,1,oras,Alanya
+8,1,oras,Kemer
+9,1,oras,Lara Kundu
+10,1,oras,Istanbul
+15,1,oras,Cesme
+16,1,oras,Finike
+17,1,oras,Fethiye
+19,2,oras,Hammamet
+20,2,oras,Monastir
+21,2,oras,Sousse
+23,3,oras,Hurgada
+24,3,oras,Sharm El Sheikh
+27,14,oras,Paris
+30,16,oras,Roma
+32,22,oras,Viena
+33,23,oras,Chisinau
+34,24,oras,Barcelona
+36,25,oras,Moscova
+37,26,oras,New York
+38,27,oras,Praga
+39,28,oras,Londra
+40,29,oras,Copenhaga
+41,30,oras,Oslo
+45,31,oras,Beijing
+46,32,oras,Tokyo
+47,38,oras,Tripoli
+48,33,oras,Varsovia
+49,34,oras,Tel Aviv
+51,36,oras,Brussels
+52,37,oras,Stockholm
+55,20,oras,Duni
+56,16,oras,Ascoli Satriano
+57,20,oras,Albena
+58,20,oras,Golden Sands
+60,20,oras,Nessebar
+61,20,oras,Obzor
+62,20,oras,Pomorie
+63,20,oras,Elenite
+64,20,oras,Sunny Day
+65,20,oras,Sunny Beach
+66,20,oras,St. Constantin
+67,20,oras,Balcik
+68,15,oras,Rabat
+69,19,oras,Mamaia
+70,19,oras,Cap Aurora
+71,19,oras,Costinesti
+72,19,oras,Eforie Nord
+73,19,oras,Eforie Sud
+74,19,oras,Jupiter
+75,19,oras,Mangalia
+76,19,oras,Neptun
+77,19,oras,Olimp
+78,19,oras,Saturn
+79,19,oras,Venus
+81,21,oras,Halkidiki
+82,20,oras,Bansko
+83,20,oras,Borovets
+84,16,oras,Insula Ischia
+85,16,oras,Catania
+86,17,oras,Berlin
+88,20,oras,Pamporovo
+90,22,oras,Zell am See
+91,22,oras,Niedernsill
+92,22,oras,Kaprun
+93,22,oras,Bruck an der Glocknerstrasse
+94,22,oras,Fusch
+95,22,oras,Bad Gastein
+96,22,oras,Bad Hofgastein
+97,22,oras,Saalbach
+98,22,oras,Landeck
+99,40,oras,Port Louis
+100,41,oras,Dubai
+101,42,oras,Punta Cana
+103,22,oras,Fieberbrunn
+104,21,oras,Skiathos
+105,43,oras,Lisabona
+106,19,oras,Azuga
+107,19,oras,Bran
+108,19,oras,Busteni
+109,19,oras,Poiana Brasov
+110,19,oras,Predeal
+111,19,oras,Sinaia
+112,19,oras,Staja
+113,21,oras,Corfu
+114,21,oras,Creta
+115,21,oras,Kos
+116,21,oras,Rhodos
+117,21,oras,Santorini
+118,21,oras,Zakynthos
+119,21,oras,Paralia - Katerini
+120,47,oras,Bali
+121,45,oras,Ocho Rios
+122,46,oras,Male
+123,48,oras,Larnaca
+124,24,oras,Mallorca
+125,24,oras,Costa Brava &amp; Maresme
+126,24,oras,Gran Canaria
+127,48,oras,Protaras
+128,48,oras,Limassol
+129,48,oras,Paphos
+130,48,oras,Ayia Napa
+131,43,oras,Madeira
+132,14,oras,Nisa
+133,14,oras,Cannes
+134,49,oras,Monte Carlo
+144,20,oras,Sozopol
+150,50,oras,Dubrovnik
+151,50,oras,Mlini
+152,50,oras,Cavtat
+153,19,oras,Constanta
+154,51,oras,Mexico City
+155,42,oras,Bavaro
+156,24,oras,Ibiza
+157,24,oras,Tenerife
+158,35,oras,Helsinki
+159,21,oras,Lefkada
+160,24,oras,Costa Dorada
+161,3,oras,Safaga
+162,34,oras,Bethleem
+163,34,oras,Tiberias
+164,22,oras,Salzburg
+165,22,oras,Zillertal
+166,22,oras,Funchal
+167,66,oras,Bruges
+168,22,oras,Graz
+169,22,oras,Innsbruck
+170,22,oras,Klagenfurt
+172,66,oras,Gent
+173,66,oras,Charleroi
+174,66,oras,Liege
+175,27,oras,Karlovy Vary
+176,27,oras,Brno
+177,64,oras,Shanghai
+178,64,oras,Hong Kong
+179,64,oras,Xian
+180,50,oras,Split
+181,50,oras,Rijeka
+182,50,oras,Zagreb
+183,50,oras,Pula
+184,41,oras,Abu Dhabi
+185,3,oras,Cairo
+186,3,oras,Luxor
+187,3,oras,Aswan
+188,3,oras,Abu Simbel
+189,35,oras,Rovaniemi
+190,14,oras,Bordeaux
+191,14,oras,Lyon
+192,14,oras,Marsilia
+193,14,oras,Dijon
+194,17,oras,Munich
+195,21,oras,Stuttgart
+196,17,oras,Koln
+197,17,oras,Bonn
+198,17,oras,Nurnberg
+199,17,oras,Hamburg
+200,17,oras,Dresda
+201,17,oras,Hanovra
+202,21,oras,Thasos
+203,21,oras,Atena
+204,21,oras,Mikonos
+205,21,oras,Lesbos
+206,47,oras,Jakarta
+207,34,oras,Nazaret
+208,34,oras,Ierusalim
+209,34,oras,Eilat
+210,34,oras,Haifa
+211,16,oras,Torino
+212,16,oras,Milano
+213,16,oras,Verona
+214,16,oras,Florenta
+215,16,oras,Venetia
+216,16,oras,Bologna
+217,16,oras,Genova
+218,16,oras,Pisa
+219,16,oras,Livorno
+220,16,oras,Bari
+221,16,oras,Salerno
+222,16,oras,Napoli
+223,16,oras,Mesina
+224,16,oras,Palermo
+225,16,oras,Cagliari
+226,16,oras,Taormina
+227,45,oras,Kingston
+228,45,oras,Montego Bay
+229,45,oras,Portmore
+230,45,oras,Rio Bueno
+231,65,oras,Kyoto
+232,65,oras,Osaka
+233,65,oras,Yokohama
+234,28,oras,Manchester
+235,28,oras,Leeds
+236,28,oras,Liverpool
+237,28,oras,Sheffield
+238,28,oras,Edinburgh
+239,28,oras,Glasgow
+240,28,oras,Belfast
+241,54,oras,Marakkes
+242,54,oras,Fez
+243,54,oras,Casablanca
+244,51,oras,Guadalajara
+245,51,oras,Veracruz
+246,51,oras,Cancun
+247,76,oras,Bergen
+248,108,oras,Cracovia
+249,108,oras,Katovice
+250,108,oras,Wroklaw
+251,108,oras,Poznan
+252,108,oras,Gdansk
+253,43,oras,Faro
+254,43,oras,Estoril
+255,43,oras,Porto
+256,43,oras,Coimbra
+257,43,oras,Santiago de Compostella
+258,43,oras,Cascais
+259,57,oras,St Petersburg
+260,24,oras,Madrid
+261,24,oras,Valencia
+262,24,oras,Granada
+263,24,oras,Malaga
+264,24,oras,Sevilia
+265,24,oras,Zaragoza
+266,97,oras,Dakar
+267,74,oras,Belgrad
+268,98,oras,Mahe
+269,56,oras,Bratislava
+270,56,oras,Kosice
+271,56,oras,Brezno
+272,73,oras,Liubliana
+273,44,oras,Colombo
+274,44,oras,Matara
+275,53,oras,Oslo
+276,63,oras,Phuket
+277,63,oras,Pattaya
+278,63,oras,Bangkok
+279,63,oras,Krabi
+280,101,oras,Taipei
+281,96,oras,Dar es Salaam
+282,96,oras,Zanzibar
+283,96,oras,Dodoma
+284,104,oras,Hobart
+285,2,oras,Tunis
+286,58,oras,Kiev
+287,58,oras,Odessa
+288,59,oras,Budapesta
+289,88,oras,Montevideo
+290,81,oras,Caracas
+291,80,oras,Ho Chi Min
+292,80,oras,Hanoi
+293,62,oras,Buenos Aires
+294,62,oras,Bahia Bianca
+295,62,oras,Mar del Plata
+296,100,oras,Canberra
+297,100,oras,Sydney
+298,100,oras,Melbourne
+299,100,oras,Brisbane
+300,100,oras,Perth
+301,90,oras,Belmopan
+302,90,oras,Belize City
+303,90,oras,Punta Gorda
+304,90,oras,Dangriga
+305,85,oras,La Paz
+306,85,oras,Salar de Uyuni
+307,85,oras,Colchani
+308,85,oras,Potosi
+309,85,oras,Sucre
+310,61,oras,Brasilia
+311,61,oras,Rio de Janeiro
+312,61,oras,Sao Paolo
+313,61,oras,Manaus
+314,106,oras,Ottawa
+315,106,oras,Montreal
+316,106,oras,Toronto
+317,106,oras,Vancouver
+318,84,oras,Santiago de Chile
+319,84,oras,Punta Arenas
+320,86,oras,Bogota
+321,86,oras,Cartagena
+322,93,oras,San Jose
+323,93,oras,Puntarenas
+324,93,oras,Poas
+325,93,oras,Tortuguero
+326,60,oras,Havana
+327,60,oras,Varadero
+328,82,oras,Quito
+329,69,oras,Talin
+330,105,oras,Suva
+331,77,oras,Manila
+332,77,oras,Boracay
+333,89,oras,Guatemala City
+334,89,oras,Antigua
+335,102,oras,Honolulu
+336,91,oras,Tegucigalpa
+337,79,oras,Amman
+338,79,oras,Aqaba
+339,79,oras,Petra
+340,70,oras,Dublin
+341,75,oras,Reykjavik
+342,95,oras,Nairobi
+343,68,oras,Riga
+344,67,oras,Vilnius
+345,99,oras,Antananarivo
+346,92,oras,Managua
+347,103,oras,Wellington
+348,103,oras,Auckland
+349,71,oras,Amsterdam
+350,71,oras,Haga
+351,71,oras,Eindhoven
+352,87,oras,Asuncion
+353,83,oras,Lima
+354,22,oras,Strobl am Wolfgangsee
+355,22,oras,Abtenau
+356,22,oras,Golling
+357,22,oras,Bad Goisern
+358,22,oras,Bischofshofen
+359,22,oras,Neustift/Ghetarul Stubai
+360,22,oras,Mattrei in Osttirol
+361,22,oras,Pians/Ischgl
+362,22,oras,Ischgl
+363,22,oras,Kappl/Ischgl
+364,22,oras,Landeck/Ischgl
+365,22,oras,Finkenberg/Ghetarul Hintertux
+366,22,oras,Gerlos
+368,1,oras,Didim
+369,0,oras,Ozdere
+370,1,oras,Ozdere
+371,20,oras,Sarafovo
+372,20,oras,Kranevo
+373,20,oras,Riviera
+374,20,oras,St. Vlas
+375,20,oras,Ravda
+376,20,oras,Aheloy
+377,20,oras,Kavarne Area
+378,20,oras,Topola Skies
+379,20,oras,Byala

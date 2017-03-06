@@ -1,0 +1,20 @@
+hotel_id,oras_id,hotel_nume,pret_de_la,categorie_id,stele_id,hotel_descriere,hotel_preturi,tipuri_masa,website,cartier,data_creare,data_modificare,data_galerie_update,status
+1,1,Adakule,,1,1,,,All Inclusive,www.adakule.com,,12/29/2010,12/29/2010,2/15/2010,activ
+2,1,Aqua Fantasy Club &amp; World,,1,1,,"<iframe name=""inlineframe"" src=""preturi_turcia/aqua_fantasy.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",All Inclusive,www.aquafantasy.com,,12/29/2010,12/29/2010,2/15/2010,activ
+3,1,Atamis Onura,,1,1,,,All Inclusive,www.onura.com,,12/29/2010,12/29/2010,2/15/2010,inactiv
+4,1,Ephesus Princess,,1,1,,,Ultra All Inclusive,www.princess.com.tr,Pamucak,12/29/2010,12/29/2010,2/15/2010,activ
+5,1,Richmond Ephesus,,1,1,,,All Inclusive,www.richmondhotels.com.tr,,12/29/2010,12/29/2010,2/15/2010,activ
+6,1,Surmeli Efes,,1,1,,,All Inclusive,www.surmelihotels.com,,12/29/2010,12/29/2010,2/15/2010,activ
+7,1,Club Grand Blue Sky,,1,11,,"<iframe name=""inlineframe"" src=""preturi_turcia/grand_blue_sky.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",All Inclusive,www.grandbluesky.com,,12/29/2010,12/29/2010,2/15/2010,activ
+8,1,Pine Bay Holiday Resort,,1,1,,"<iframe name=""inlineframe"" src=""preturi_turcia/pine_bay.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",All Inclusive,www.pinebay.com,,12/29/2010,12/29/2010,2/15/2010,activ
+9,1,Ephesia Holiday Beach Club,,1,2,,"<iframe name=""inlineframe"" src=""preturi_turcia/ephesia_holiday.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",All Inclusive,www.ephesiahotel.com,,12/29/2010,12/29/2010,4/18/2012,activ
+10,1,Atinc,,1,2,,,Demipensiune,www.hotelatinc.com,,12/29/2010,12/29/2010,2/15/2010,activ
+11,1,Ayma,,1,2,,,Demipensiune,www.aymahotel.com,Ladies Beach,12/29/2010,1/27/2014,2/15/2010,activ
+12,1,Batihan,,1,2,,"<iframe name=""inlineframe"" src=""preturi_turcia/batihan_beach.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",Demipensiune,www.batihanbeachresort.com,Long Beach,12/29/2010,12/29/2010,2/15/2010,activ
+13,1,Egeria Beach Club,,1,2,,,All Inclusive,www.egeriabeachclubhotel.com,Davutlar,12/29/2010,12/29/2010,2/15/2010,activ
+14,1,Ephesia,,1,2,,"<iframe name=""inlineframe"" src=""preturi_turcia/ephesia.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",All Inclusive,www.ephesia.com,,12/29/2010,12/29/2010,2/15/2010,activ
+15,1,Grand Ozcelik,,1,2,,"<iframe name=""inlineframe"" src=""preturi_turcia/grand_ozcelik.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",All Inclusive,www.ozcelikhotels.com,Yavansu,12/29/2010,12/29/2010,2/15/2010,activ
+16,1,Imbat,,1,2,,"<iframe name=""inlineframe"" src=""preturi_turcia/imbat.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",All Inclusive,www.imbat.com.tr,Ladies Beach,12/29/2010,12/29/2010,2/15/2010,activ
+17,1,Kayhanbey,,1,2,,,Demipensiune,www.kayhanbey.com,Center,12/29/2010,12/29/2010,2/15/2010,activ
+18,1,Mersin Beach Club,,1,2,,"<iframe name=""inlineframe"" src=""preturi_turcia/club_mersin.htm"" frameborder=""0"" scrolling=""auto"" width=""750"" height=""600"" marginwidth=""5"" marginheight=""5"" ></iframe>",All Inclusive,www.mersinhotel.com,,12/29/2010,12/29/2010,2/15/2010,activ
+19,1,Coast Light,,1,3,,,Demipensiune,www.coastlighthotel.com,,12/29/2010,12/29/2010,2/15/2010,activ
