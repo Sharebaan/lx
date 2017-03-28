@@ -9,6 +9,8 @@ use App\Models\Travel\HotelSearchCached;
 use App\Models\Travel\Geography;
 use App\Models\Travel\MealPlanHotelSearch;
 use App\Models\Travel\PackageInfo;
+use App\Models\Travel\PriceSet;
+use App\Models\Travel\CachedPrice;
 use App\Models\Travel\PackagesSearchCached;
 use App\Models\Travel\HotelSearchCachedPrice;
 use App\Models\Travel\PackageSearchCachedPrice;
@@ -215,17 +217,23 @@ class SearchAjaxController extends Controller {
 			$Rooms[] = $room;
 		}
 		$locations = Geography::getLocationIdsBySoapClient($packageSearch['destination']);
-		//dd($locations);
+		
 		$resultsBySoapClient = array();
+		
+		
+		
 		foreach($locations as $soapClient => $locationId){
 				$eSOAPClient = new ET_SoapClient($soapClient);
+				
 				$departure_point = Geography::getLocationIdForSoapClient($soapClient,$packageSearch["departure_point"]);
 				$resultsBySoapClient[$eSOAPClient->id_operator] = $eSOAPClient->packageSearch(new PackageSearchSoapObject($packageSearch["is_tour"],$packageSearch["is_flight"],$packageSearch["is_bus"],$departure_point,$locations[$eSOAPClient->id_operator],null,
 														 																  $packageSearch["departure_date"],$packageSearch["duration"],null,$Rooms,
 														 																  true,true));
 				
 		}
-		//dd($resultsBySoapClient);
+
+	
+		
 		$packageSearchDB = new PackagesSearchCached();
 		$packageSearchDB->is_flight = $packageSearch["is_flight"];
 		$packageSearchDB->is_bus = $packageSearch["is_bus"];
@@ -236,6 +244,22 @@ class SearchAjaxController extends Controller {
 		$packageSearchDB->duration = $packageSearch["duration"];
 		$packageSearchDB->rooms = json_encode($packageSearch["rooms"]);
 		$packageSearchDB->save();
+		
+		/*
+		$d = explode('-',$packageSearch["departure_date"]);
+		$date = \Carbon\Carbon::create($d[0],$d[1],$d[2],0);
+		
+		$packageCache = new PriceSet;
+		$packageCache->id = "2000";
+		$packageCache->valid_from = $date;
+		$packageCache->valid_to = $date;
+		$packageCache->soap_client = 'CH';
+		$packageCache->label = 'Search';
+		$packageCache->description = 'Search';
+		$packageCache->is_local = 0;
+		$packageCache->save();
+		*/
+		
 		foreach($resultsBySoapClient as $soapClientId => $soapPackageResults){
 			foreach($soapPackageResults as $packageResult){
 				$defaultMealPlan = true;
@@ -273,9 +297,32 @@ class SearchAjaxController extends Controller {
 						$packageSearchCachedPriceDB->tax = $packageResult->Price->Tax;
 					}
 					$packageSearchCachedPriceDB->save();
+					
+					
+					/*
+					$cachedPrice = new CachedPrice;
+					$cachedPrice->id_package = $packageResult->PackageId;
+					$cachedPrice->id_room_category = $packageResult->HotelInfo->CategoryId;
+					$cachedPrice->id_price_set = $packageCache->id;
+					$cachedPrice->id_meal_plan = $mealPlanDB->id;
+					$cachedPrice->departure_date = $packageSearch["departure_point"];
+					
+					if($defaultMealPlan){
+						$cachedPrice->gross = $packageResult->Price->Gross;
+						$cachedPrice->tax = $packageResult->Price->Tax;
+					}else{
+						$cachedPrice->gross = $packageResult->Price->Gross - $defaultMealPlanPrice + $mealPlan->Price->Gross;
+						$cachedPrice->tax = $packageResult->Price->Tax;		
+					}
+					
+					$cachedPrice->currency = 0;
+					$cachedPrice->soap_client = $soapClientId;
+					$cachedPrice->save();
+					*/
 				}
 			}
 		}
+		
 		$locationIds = array();
 		Geography::getLocationsFromBaseLocation(Geography::find($packageSearch['destination']),$locationIds);
 		$localResults = DB::table('packages')->join('cached_prices','cached_prices.id_package','=','packages.id')->where('packages.soap_client','=','LOCAL')->where('is_tour','=',$packageSearch['is_tour'])
@@ -286,6 +333,9 @@ class SearchAjaxController extends Controller {
 											 ->where('is_flight','=',$packageSearch['is_flight'])->where('is_bus','=',$packageSearch['is_bus'])->where('duration','=',$packageSearch['duration'])
 											 ->whereIn('destination',$locationIds)->where('cached_prices.soap_client','=',$eOps)->where('cached_prices.departure_date','=',$packageSearch['departure_date'])->get();
 
+										 
+		
+		
 		foreach($localResults as $result){
 			$packageSearchCachedPriceDB = new PackageSearchCachedPrice();
 			$packageSearchCachedPriceDB->id_package_search = $packageSearchDB->id;
@@ -297,6 +347,20 @@ class SearchAjaxController extends Controller {
 			$packageSearchCachedPriceDB->vat = 0;
 			$packageSearchCachedPriceDB->tax = $result->tax * count($Rooms);
 			$packageSearchCachedPriceDB->save();
+			
+			/*
+			$cachedPrice = new CachedPrice;
+			$cachedPrice->id_package = $result->id;
+			$cachedPrice->id_room_category = $result->id_room_category;
+			$cachedPrice->id_price_set = $packageSearchDB->id;
+			$cachedPrice->id_meal_plan = $result->id_meal_plan;
+			$cachedPrice->departure_date = $date;
+			$cachedPrice->gross = $result->gross * count($Rooms);
+			$cachedPrice->tax = $result->tax * count($Rooms);
+			$cachedPrice->currency = 0;
+			$cachedPrice->soap_client = "LOCAL";
+			$cachedPrice->save();
+			*/
 		}
 		foreach($localSoapResults as $result){
 			$packageSearchCachedPriceDB = new PackageSearchCachedPrice();
@@ -309,6 +373,20 @@ class SearchAjaxController extends Controller {
 			$packageSearchCachedPriceDB->vat = 0;
 			$packageSearchCachedPriceDB->tax = $result->tax * count($Rooms);
 			$packageSearchCachedPriceDB->save();
+			
+			/*
+			$cachedPrice = new CachedPrice;
+			$cachedPrice->id_package = $result->id;
+			$cachedPrice->id_room_category = $result->id_room_category;
+			$cachedPrice->id_price_set = $packageSearchDB->id;
+			$cachedPrice->id_meal_plan = $result->id_meal_plan;
+			$cachedPrice->departure_date = $date;
+			$cachedPrice->gross = $result->gross * count($Rooms);
+			$cachedPrice->tax = $result->tax * count($Rooms);
+			$cachedPrice->currency = 0;
+			$cachedPrice->soap_client = $result->soap_client;
+			$cachedPrice->save();
+			*/
 		}
 		//dd($packageSearchDB);
 		echo $callback."(".json_encode($packageSearchDB->id).")";

@@ -48,7 +48,7 @@ class UpdateCache extends Command
 					
 					$dep = PackagesSearchCached::where('id',$v->id_package_search)->first();
 					
-					
+					if($dep == null){continue;}
 					
 					$d = explode('-',$dep->departure_date);
 					$n = explode('-',Carbon::now()->toDateString());
@@ -67,6 +67,8 @@ class UpdateCache extends Command
 						'tax'=>$v->tax,
 						'soap_client'=>$v->soap_client
 					])->first();
+					
+					if($checkCP == null){continue;}
 					
 					$validTo = $date->addDays($dep->duration);
 					

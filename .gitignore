@@ -1,6 +1,5 @@
 /bootstrap/compiled.php
-/vendor
-/public/images
+/public/images/offers
 composer.lock
 .env.*.php
 .env.php

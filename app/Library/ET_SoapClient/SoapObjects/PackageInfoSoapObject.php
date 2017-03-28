@@ -13,7 +13,7 @@ use App\Models\Travel\Geography;
 
 
 class PackageInfoSoapObject extends INF_SoapObjectModelBindable{
-	
+
 	public $Id;
 	public $Name;
 	public $IsTour;

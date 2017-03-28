@@ -167,7 +167,7 @@ class PackageInfo extends SximoTravel {
 							->select(DB::raw('geographies.id as id, geographies.name as name'))
 							->rightJoin('packages_departure_points','packages_departure_points.id_geography','=','geographies.id')
 							->rightJoin('packages','packages_departure_points.id_package','=','packages.id');
-							//dd($results->get());
+							
 		switch($transportType){
 			case 1 :
 				$results = $results->where('packages.is_flight','=',1);
